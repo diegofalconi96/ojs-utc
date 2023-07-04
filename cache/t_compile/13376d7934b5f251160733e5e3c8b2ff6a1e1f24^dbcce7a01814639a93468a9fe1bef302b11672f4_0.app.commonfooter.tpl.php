@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-06-26 19:00:21
+/* Smarty version 3.1.33, created on 2023-07-04 14:19:10
   from 'app:commonfooter.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_6499e045c95993_24195185',
+  'unifunc' => 'content_64a42a5e8d5841_86959252',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'dbcce7a01814639a93468a9fe1bef302b11672f4' => 
     array (
       0 => 'app:commonfooter.tpl',
-      1 => 1575681927,
+      1 => 1688408136,
       2 => 'app',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'core:common/footer.tpl' => 1,
   ),
 ),false)) {
-function content_6499e045c95993_24195185 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64a42a5e8d5841_86959252 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_assignInScope('brandImage', "templates/images/ojs_brand.png");
 $_smarty_tpl->_assignInScope('packageKey', "common.openJournalSystems");
 $_smarty_tpl->_assignInScope('pkpLink', "http://pkp.sfu.ca/ojs");
