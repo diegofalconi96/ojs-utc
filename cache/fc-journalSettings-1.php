@@ -9,9 +9,6 @@
   'contactFax' => '',
   'contactName' => 'PhD. Carlos Torres Miño',
   'contactPhone' => '',
-  'contributors' => 
-  array (
-  ),
   'copyrightHolderType' => '',
   'copyrightNoticeAgree' => false,
   'copyrightYearBasis' => '',
@@ -32,11 +29,7 @@ http://investigacion.utc.edu.ec/index.php/revista1',
   'enableAnnouncementsHomepage' => false,
   'enableComments' => '1',
   'enableLockss' => true,
-  'enablePageNumber' => true,
-  'enablePublicArticleId' => false,
-  'enablePublicGalleyId' => false,
-  'enablePublicIssueId' => false,
-  'enablePublicSuppFileId' => false,
+  'enableOai' => true,
   'envelopeSender' => '',
   'fastTrackFee' => 0,
   'includeCopyrightStatement' => true,
@@ -51,7 +44,6 @@ http://investigacion.utc.edu.ec/index.php/revista1',
   'mailingAddress' => 'Dirección de Investigación de la Universidad Técnica de Cotopaxi (UTC), cantón Latacunga, El Ejido, sector San Felipe. País: Ecuador. Provincia: Cotopaxi. Cantón: Latacunga. Teléfonos: 593 (03) 2810-296 / 2813-157 Extensión: 139 – 156. Fax: 593 (03) 2810-295. Email: revista.utciencia@utc.edu.ec. Apartado postal: 05-01491.',
   'mailSubmissionsToReviewers' => true,
   'membershipFee' => 0,
-  'metaCitationOutputFilterId' => 20,
   'metaCitations' => true,
   'metaCoverage' => false,
   'metaDiscipline' => true,
@@ -118,14 +110,6 @@ http://investigacion.utc.edu.ec/index.php/revista1',
   'rtViewReviewPolicy' => true,
   'showEnsuringLink' => false,
   'showGalleyLinks' => false,
-  'sponsors' => 
-  array (
-    0 => 
-    array (
-      'institution' => 'Universidad Técnica de Cotopaxi',
-      'url' => 'http://www.utc.edu.ec/',
-    ),
-  ),
   'submissionFee' => 0,
   'supportedFormLocales' => 
   array (
@@ -408,148 +392,6 @@ al.</strong> El corrector/a de la revista editará el texto para mejorar la flui
 •	Los autores pueden establecer por separado acuerdos adicionales para la distribución no exclusiva de la versión de la obra publicada en la revista (por ejemplo, situarlo en un repositorio institucional o publicarlo en un libro), con un reconocimiento de su publicación inicial en esta revista.
 •	Se permite y se anima a los autores a difundir sus trabajos electrónicamente (por ejemplo, en repositorios institucionales o en su propio sitio web) antes y durante el proceso de envío, ya que puede dar lugar a intercambios productivos, así como a una citación más temprana y mayor de los trabajos publicados (Véase <a href="http://opcit.eprints.org/oacitation-biblio.html">The Effect of Open Access</a>) (en inglés).',
   ),
-  'customAboutItems' => 
-  array (
-    'es_ES' => 
-    array (
-      0 => 
-      array (
-        'title' => 'Pagos por recepción o publicación de artículos',
-        'content' => 'La Revista UTCiencia no cuenta con cargos o tasas por la publicación de artículos enviados por los autores, ni cargos por la recepción de artículos.',
-      ),
-      1 => 
-      array (
-        'title' => 'Detección de plagio',
-        'content' => 'La detección de plagio en los documentos será el primer paso de revisión por parte del Comité Editorial. Para esto se utiliza la herramienta digital OURIGINAL (Urkund y PlagScan). Cualquier documento que incurra en plagio será automáticamente descartado y devuelto al remitente.',
-      ),
-      2 => 
-      array (
-        'title' => 'Código de ética',
-        'content' => 'La Universidad Técnica de Cotopaxi posee un <a href="https://www.utc.edu.ec/Portals/0/carlos%202016/carlos%202017/JULIO%202017/CODIGO%20DE%20ETICA.pdf?ver=2017-07-03-161731-753&ver=2017-07-03-161731-753">código de ética integral,</a>  en dónde se determina elementos importantes relacionados a la gestión y a la investigación científica. La revista UTCiencia toma como referencia los elementos de esta normativa, además, de los principios publicados por el Committee on Publication Ethics (COPE) en el <a href="https://publicationethics.org/resources/code-conduct"> Code of Conduct and Best Practice Guidelines for Journal Editors.</a>  
-
-El Comité Editorial de la Revista UTCiencia, velarán para que editores, revisores pares y autores respeten los principios éticos durante todas las fases del proceso editorial. Con estos antecedentes, se detalla las normas a todos los interesados.
-
-1.	 Sobre autores y autoría 
-
-1.1.	Los artículos que se envíen a UTCiencia deben ser originales e inéditos.  
-1.2.	La revista UTCiencia tiene acceso libre a todos sus documentos. Los artículos pueden leerse, descargarse, copiarse, distribuirse, imprimirse y hacer referencia al texto completo con atribución, sin ninguna restricción, de acuerdo con la licencia Commons the Attribution 4.0 the Creative International (CC BY 4.0). Publicar en la revista no tiene costo.  
-1.3.	Abstenerse del envío múltiple/repetitivo de artículos a publicaciones o editoriales diferentes. Ésta es una conducta reprobable en la difusión de  investigaciones académicas.  
-1.4.	Respeto a las fuentes originales que consulta en su artículo. Las referencias  bibliográficas deben estar citadas de manera correcta y completa.  
-1.5.	Posibles errores en los artículos publicados. Cuando el autor/a identifica en su trabajo un error o inexactitud, deberá informar al equipo editorial de UTCiencia y facilitarle la información necesaria para las correcciones. 
-1.6.	Los autores se comprometen a revisar la literatura académica más actual y relevante sobre el tema que investigan. No se descarta la utilización de literatura clásica o que sobrepasen los 5 años de publicación, siempre que el estado de arte así lo requiera. 
-1.7.	Ordenar la firma de autoría de acuerdo al nivel de responsabilidad e implicación en el artículo. Los autores garantizan la inclusión de aquellas personas que han hecho una contribución científica e intelectual significativa en la conceptualización y la planificación del trabajo como en la interpretación de los resultados y en la redacción del mismo. 
-
-2.	Sobre los pares evaluadores
-
-2.1.	Contribución a la decisión editorial. Los revisores asumen el compromiso de realizar una revisión crítica y constructiva, para garantizar la calidad científica de las contribuciones. 
-2.2.	La revisión por pares ciegos se realizará de manera objetiva, además, que su dictamen no contenga ningún juicio personal. 
-2.3.	Informar si existen conflictos de intereses. Cuando un evaluador o revisor tenga alguna opinión o interés de tipo personal que pudiera afectar su objetividad en su evaluación, debe abstenerse de participar en el proceso editorial. 
-2.4.	Anonimato. Los revisores nunca conocerán a los/as autores/as y tampoco tendrán conocimiento sobre la identidad del otro par ciego.  
-2.5.	Confidencialidad. Una vez terminado el proceso evaluativo, el revisor se abstendrá de divulgar lo leído a agentes externos a UTCiencia.
-2.6.	Respeto de los tiempos pactados con la revista. El revisor tiene la responsabilidad de notificar a los editores en caso de existir inconvenientes para entregar la evaluación a tiempo.  
-
-3.	De la responsabilidad de los editores 
-
-3.1.	Honestidad. Garantizar la transparencia en los procesos de evaluación, edición y publicación de cada número.
-3.2.	Confidencialidad. El equipo editorial mantendrá el anonimato entre revisores y autores durante todo el proceso.  
-3.3.	Responder inquietudes vía correo electrónico. Las consultas y aclaraciones solicitadas por autores, revisores o cualquier persona interesada en la revista UTCiencia serán contestadas a la brevedad posible. 
-3.4.	Facilitar rectificaciones. Se publicarán correcciones o aclaraciones  correspondientes a través de la página web de la revista.  
-3.5.	Proceso de revisión. Los editores seleccionarán a los revisores en relación al perfil profesional de la contribución.
-3.6.	Respeto de los tiempos. Los editores responden por el cumplimiento de los límites de tiempo para las revisiones y la publicación de los trabajos aceptados, para asegurar una rápida difusión de sus resultados científicos. 
-Se comprometen a cumplir con los tiempos establecidos para dar una respuesta de publicación o no publicación de la contribución científica, la misma que debería tardar un máximo de 6 semanas desde la recepción de la contribución y un máximo de 12 semanas desde el inicio del proceso de revisión doble ciego hasta su publicación. 
-
-4.	Procedimientos para tratar conflictos de intereses. Política de transparencia.
-El Comité Editorial de la revista UTCiencia confía en lo que dicen los autores y en la objetividad/imparcialidad de los revisores pares. Los autores, a su vez, deben confiar en la integridad de los editores y revisores. 
-4.1.	Ante conductas inapropiadas. Pueden ser identificadas y comunicadas al Director/a General o editor de la revista UTCiencia.
-4.2.	 Proceso investigativo. 
-4.2.1.	El editor debe iniciar una investigación y buscar asesoramiento jurídico en la  institución responsable de la revista.  
-4.2.2.	Recopilar las pruebas y mantener el anonimato en todo momento, para evitar  filtraciones en el ámbito científico.
-4.3.	Infracciones. El tipo o clases de infracciones se lo definirán de acuerdo a la normativa nacional vigente o el código de ética de la Universidad Técnica de Cotopaxi.
-
-5.	Consecuencias. 
-
-5.1.	Publicación de un editorial de la revista en el que se detalle la conducta  inapropiada.  
-5.2.	Retiro formal de la publicación de la revista.  
-5.3.	Embargo oficial sobre las contribuciones de un individuo/autor por un período  definido.
-
-
-Código de ética UTCiencia pdf: <a href="https://drive.google.com/file/d/12i0yq0UqyOPcWa9FLkkKkEoIR-kzI_H6/view?usp=sharing">
-https://drive.google.com/file/d/12i0yq0UqyOPcWa9FLkkKkEoIR-kzI_H6/view?usp=sharing</a>',
-      ),
-      3 => 
-      array (
-        'title' => 'Protocolos de interoperabilidad',
-        'content' => 'La revista UTCiencia proporciona una interfaz OAI-PMH (Open Archives Initiative – Protocol for Metadata Harvesting) que permite que otros portales y servicios de información puedan acceder a los metadatos de los contenidos publicados.
-
-Especificaciones:
-
-OAI-PMH Protocol Version 2.0
-Dublin Core Metadata
-
-Ruta para los cosechadores: 
-<a href="http://investigacion.utc.edu.ec/revistasutc/index.php/index/oai"> http://investigacion.utc.edu.ec/revistasutc/index.php/index/oai</a>',
-      ),
-      4 => 
-      array (
-        'title' => 'Servicios de interactividad',
-        'content' => 'La revista UTCiencia incluye espacios para comentarios en la parte inferior izquierda de los documentos publicados. El objetivo es facilitar la interactividad con las personas lectoras.',
-      ),
-      5 => 
-      array (
-        'title' => 'Derechos de autor',
-        'content' => 'Los autores y autoras tienen derechos exclusivos sobre el trabajo publicado.
-
-La revista UTCiecnia tiene acceso libre. Los artículos pueden leerse, descargarse, copiarse, distribuirse, imprimirse y hacer referencia al texto completo con atribución, sin ninguna restricción, de acuerdo con la licencia Commons the Attribution 4.0 the Creative International (CC BY 4.0).
-
-https://creativecommons.org/licenses/by/4.0/
-
-Compartir — copiar y redistribuir el material en cualquier medio o formato.
-Adapt — remezclar, transformar y construir sobre el material para cualquier propósito, incluso en el comercio.
-
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material for any purpose, even commercially.',
-      ),
-      6 => 
-      array (
-        'title' => 'Definición de autor y contribuidor',
-        'content' => 'Para ser considerado autor  es necesario cumplir los siguientes criterios: 
-
-1.- Que exista una contribución sustancial a la concepción o diseño del artículo o a la adquisición, análisis o interpretación de los datos.
-
-2.- Que se haya participado en el diseño del trabajo de investigación o en la revisión crítica de su contenido intelectual.
-
-3.- Que se haya intervenido en la aprobación de la versión final que vaya a ser publicada.
-
-4. Que se tenga capacidad de responder de todos los aspectos del artículo de cara a asegurar que las cuestiones relacionadas con la exactitud o integridad de cualquier parte del trabajo están adecuadamente investigadas y resueltas.
-
-Las personas que apoyaron en la investigación pero no cumplen con los criterios de autor serán considerados en la sección  de agradecimientos del artículo.',
-      ),
-      7 => 
-      array (
-        'title' => 'Índices de Publicación',
-        'content' => '<a href="http://www.latindex.org"><img src="http://investigacion.utc.edu.ec/revistasutc/public/imgs/banner_conv.png" width="88" height="28" border="0"></a> Latindex es un sistema de Información sobre las revistas de investigación científica, técnico-profesionales y de divulgación científica y cultural que se editan en los países de América Latina, el Caribe, España y Portugal. <a href="https://www.latindex.org/latindex/ficha/21907"> http://www.latindex.org</a>
-
-
-
-<a href="http://flacso.org.ar/latinrev/"><img src="http://investigacion.utc.edu.ec/revistasutc/public/imgs/latinrev.png" width="108" height="58" border="0"></a> LatinREV es la red cooperativa de revistas y asociaciones de revistas académicas del campo de las ciencias sociales y las humanidades. Su propósito es brindar asesoramiento, capacitaciones y actualización en temas relativos a la sustentabilidad de las publicaciones. Asimismo, LatinREV ofrece la creación de un espacio colaborativo y participativo para difundir la información de interés para los equipos editoriales. <a href="https://latinrev.flacso.org.ar/revistas/utciencia"> http://flacso.org.ar/latinrev/</a>
-
-
-<a href="http://journalseeker.researchbib.com/view/issn/1390-6909"><img src="http://investigacion.utc.edu.ec/revistasutc/public/imgs/ari.png" width="88" height="58" border="0"></a> ResearchBib es de acceso abierto con alta base de datos de indexación estándar para los investigadores y editores. Research Bible idexa trabajos de investigación de múltiples revistas. <a href="http://journalseeker.researchbib.com/view/issn/1390-6909"> http://journalseeker.researchbib.com/view/issn/1390-6909</a>
-
-<a href="http://olddrji.lbp.world/JournalProfile.aspx?jid=1390-6909"><img src="http://investigacion.utc.edu.ec/revistasutc/public/imgs/drji.jpg" width="88" height="78" border="0"></a> Es un servicio en línea gratuito que le ayuda a encontrar recursos web para sus artículos e investigaciones. DRJI ofrece fácil acceso a la literatura de educación para apoyar el uso de la investigación y la información educativa para mejorar la práctica en el aprendizaje, la enseñanza, la toma de decisiones educativas y de investigación. <a href="http://olddrji.lbp.world/JournalProfile.aspx?jid=1390-6909"> http://olddrji.lbp.world/JournalProfile.aspx?jid=1390-6909</a>
-
-* Certificado de aceptación de indexación en la base de datos DRJI. <a href="http://olddrji.lbp.world/IndexingCertificate.aspx?jid=3640"> http://olddrji.lbp.world/IndexingCertificate.aspx?jid=3640</a>
-
-<a href="https://www.redib.org/"><img src="http://investigacion.utc.edu.ec/revistasutc/public/imgs/redib.png" width="188" height="68" border="0"></a> REDIB es una plataforma de agregación de contenidos científicos y académicos en formato electrónico producidos en el ámbito iberoamericano. REDIB cuenta con una clara vocación de promoción de la innovación tecnológica de las herramientas de producción editorial. <a href="https://www.redib.org/Record/oai_revista3702-utciencia-ciencia-y-tecnolog%C3%ADa-al-servicio-del-pueblo/"> https://www.redib.org/</a>
-
-<a href="http://miar.ub.edu/issn/1390-6909"><img src="http://investigacion.utc.edu.ec/revistasutc/public/imgs/miar.png" width="188" height="68" border="0"></a> Actualizada anualmente, la base de datos MIAR reúne información clave para la identificación y el análisis de revistas. Éstas se agrupan en grandes áreas científicas –subdivididas a su vez en campos académicos más específicos–. El sistema crea una matriz de correspondencia entre las revistas, identificadas por su ISSN y las bases de datos y repertorios que las indizan o incluyen. Además, se indica el vínculo a las webs de los editores e instituciones responsables de los repertorios y fuentes siempre que se dispone del mismo. <a href="http://miar.ub.edu/issn/1390-6909"> http://miar.ub.edu/issn/1390-6909</a>
-
-
-
-<a href="http://www.citrevistas.cl/b2b.htm"><img src="http://investigacion.utc.edu.ec/revistasutc/public/imgs/ai.gif" width="188" height="68" border="0"></a> Actualidad Iberoamericana es un Índice Internacional de revistas publicadas en idioma Castellano, en diversos países iberoamericanos. Actualidad Iberoamericana  provee información básica sobre revistas en idioma castellano en diversas áreas de las ciencias, las  ingenierías y las humanidades, y las cataloga por áreas del conocimiento. <a href="http://www.citrevistas.cl/actualidad/b2b_g22.htm"> http://www.citrevistas.cl/b2b.htm</a>',
-      ),
-    ),
-  ),
   'description' => 
   array (
     'es_ES' => 'La revista UTCiencia es editada y se encuentra bajo la responsabilidad de la Universidad Técnica de Cotopaxi. Nuestro objetivo es “Difundir los trabajos de investigación científica en el área de las ciencias exactas, ciencias de la vida así como de las ciencias sociales, para la generación y debate del quehacer científico” </p>
@@ -580,52 +422,6 @@ La recepción de artículos científicos está abierta durante toda el año. Los
   'fastTrackFeeName' => 
   array (
     'es_ES' => 'Revisión rápida',
-  ),
-  'focusScopeDesc' => 
-  array (
-    'es_ES' => 'La revista UTCiencia es editada y se encuentra bajo la responsabilidad de la Universidad Técnica de Cotopaxi, su periodicidad es cuatrimestral. Los periodo que cubren son: enero-abril, mayo-agosto, septiembre-diciembre; desde la génesis de su creación UTCiencia publica sus números  en el último mes de cada periodo (abril, agosto y diciembre).
-
-El contenido de UTCiencia está dirigida a investigadores y comunidades académicas relaciones con las áreas de publicación. Los artículos se caracterizan por ser originales, inéditos y presentan avances, resultados y hallazgos en el ámbito de las ciencias exactas, ciencias de la vida y ciencias sociales. Así mismo, los escritos se aceptan en español o inglés. 
-
-La revista UTCiencia busca recibir trabajos de investigación científica documental, aplicada y experimental de investigadores nacionales e internacionales durante todo el año, el objetivo principal es contribuir a la difusión del conocimiento científico. La Revista UTCiencia recibe únicamente propuestas que cumplan con el carácter de originalidad. Los artículos que se ajusten y cumplan con la normativa de la revista serán considerados como recibidos. Las propuestas que no se ajusten a las normas para autoras y autores de la revista no serán consideradas como recibidas.
-
-UTCiencia cuenta con árbitros nacionales e internacionales que realizarán la evaluación de las propuestas bajo la modalidad de doble ciego.
-
-La revista UTCiencia forma parte del catálogo Latindex; LatinREV es la red cooperativa de revistas y asociaciones de revistas académicas del campo de las ciencias sociales y las humanidades; ResearchBib es de acceso abierto con alta base de datos de indexación estándar para los investigadores y editores; DRJI que es un servicio en línea gratuito que le ayuda a encontrar recursos web para sus artículos e investigaciones, REDIB Red Iberoamericana de Innovación y Conocimiento Científico, entre otras.
-
-La distribución de la Revista es en formato electrónico y con acceso gratuito a texto completo.',
-  ),
-  'history' => 
-  array (
-    'es_ES' => '<p>La  Dirección de  Investigación  publica   la primera  revista UTCiencia  en el   año 2011, fruto de los  trabajos  expuestos  en la  Feria  UTCiencia   edición 2011, y  recursos  propios y autogestión. </p>
-<p>
-Posteriormente se publica  anualmente la  revista  UTCiencia edición  2012 y  2013   ya para   el  año 2014,  se  plantea la  indixación  de la  revista  en el  Catalogo  Latindex,  a  partir  de  allí  se  publica  una  revista  cuatrimestralmente  hasta la  presente  fecha. 
-</p><p>
-Los  tres  fascículos correspondientes  al  año 2014 fueron  sometidas  a  revisión por parte de la  Senescyt   y con  fecha  17 de  julio de  2015  se  notifica mediante  oficio Nro. SENESCYT-SDIC-2015-0564-CO  la  indexación de la  Revista  con  un  cumplimiento  de  31   de 33 caracteristicas  requeridas por  Latindex para  su  ingreso  a  Catálogo. 
-</p><p>
-El  Comité  Editorial de la  revista en  aquel  entonces  estuvo conformado por las  siguientes  personas: 
-</p><p>
-<strong>CONSEJO EDITORIAL </strong></p>
-<p><UL type = disk ><LI> Hernán Yánez -Universidad Técnica de Cotopaxi </p>
-<p><LI> Guido Yauli -Universidad Técnica de Cotopaxi </p> 
-<p><LI> Milton Herrera- Universidad Técnica de Cotopaxi</UL>
-</p></p><p> 
-<strong>COMITÉ EDITORIAL </strong></p>
-<p><UL type = disk ><LI> Laureano Martínez - Editor responsable Universidad Técnica de Cotopaxi </p>
-<p><LI> Ricardo Ureña -López Editor administrativo  -Universidad Técnica de Cotopaxi
-</p><p><LI> Lourdes Yessenia Cabrera Martínez -Universidad Técnica de Cotopaxi 
-</p><p><LI> Marco Rivera Moreno- Universidad Técnica de Cotopaxi
-</p><p><LI> Lucía Naranjo Huera-Universidad Técnica de Cotopaxi 
-</p><p><LI> Mercedez Asanza- Universidad Estatal Amazónica 
-</p><p><LI> David Neill -Universidad Estatal Amazónica 
-</p><p><LI> Cristian Vasco -Universidad Estatal Amazónica 
-</p><p><LI> Werner Vásquez von Schoettler- Facultad Latinoamericana de Ciencias Sociales 
-</p><p><LI> Alessandro Rezende da Silva- Instituto Superior de Ciencias Politicas Brasil 
-</p><p><LI> Marigina Guzmán- Universidad Metropolitana de Quito
-</p><p><LI> Stalin Suárez- Universidad Metropolitana de Quito 
-</p><p><LI> Ramiro Velasteguí- Universidad Técnica de Ambato
-</p><p><LI> Alexandra Torres -Universidad Estatal Amazónica 
-</p><p><LI> Elpidia Caridad Cruz Cabrera- Universidad de Matanzas Camilo Cienfüegos</UL></p>',
   ),
   'homeHeaderTitleImage' => 
   array (
@@ -673,19 +469,7 @@ El  Comité  Editorial de la  revista en  aquel  entonces  estuvo conformado por
   gtag(\'js\', new Date());
 
   gtag(\'config\', \'UA-174581649-1\');
-</script>
-
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YVLZKQK9EV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag(\'js\', new Date());
-
-  gtag(\'config\', \'G-YVLZKQK9EV\');
-</script>
-</head>',
+</script>',
   ),
   'journalThumbnail' => 
   array (
@@ -744,19 +528,6 @@ Además, esta revista utiliza el sistema LOCKSS para crear un sistema de archivo
       ),
     ),
   ),
-  'openAccessPolicy' => 
-  array (
-    'es_ES' => 'Esta revista proporciona un acceso abierto inmediato a su contenido, basado en el principio de que ofrecer al público un acceso libre a las investigaciones ayuda a un mayor intercambio global de conocimiento. 
-Licencia creative commons:
-
-<a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>
-
-Compartir — copiar y redistribuir el material en cualquier medio o formato.
-Adapt — remezclar, transformar y construir sobre el material para cualquier propósito, incluso en el comercio.
- 
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material for any purpose, even commercially.',
-  ),
   'pageHeaderTitle' => 
   array (
     'es_ES' => 'Revista UTCiencia',
@@ -772,10 +543,6 @@ Adapt — remix, transform, and build upon the material for any purpose, even co
   'proofInstructions' => 
   array (
     'es_ES' => '<p>La fase de corrección de pruebas tiene el propósito de detectar errores ortográficos en la galerada, así como gramaticales y de formato. En esta fase no se realizan más cambios importantes, a menos que se haya acordado con el editor/a de sección. En Maquetación, haga clic en VER PRUEBA para ver los HTML, PDF y otros formatos de archivo disponibles utilizados en la edición de este elemento.</p> <h4>Para errores ortográficos y gramaticales</h4> <p>Copie la palabra o grupo de palabras problemáticas y péguelas en el cuadro de correciones de pruebas con instrucciones al editor/a "CAMBIAR-POR" como sigue:</p> <pre>1. CAMBIAR... entonces los otras POR... entonces los otros</pre> <br /> <pre>2. CAMBIAR... Malinowsky POR... Malinowski</pre> <br /> <h4>Para errores de formato</h4> <p>Describa la ubicación y naturaleza del problema en el cuadro de correcciones de pruebas después de escribir en el título "FORMATO" como sigue:</p> <br /> <pre>3. FORMATO Los números de la Tabla 3 no están alineados en la tercera columna.</pre> <br /> <pre>4. FORMATO El párrafo que comienza con "Este último tema..." no está sangrado.</pre>',
-  ),
-  'pubFreqPolicy' => 
-  array (
-    'es_ES' => 'La revista UTCiencia de la Universidad Técnica de Cotopaxi es una publicación cuatrimestral, se publica en los meses de abril, agosto y diciembre. La convocatoria para la recepción de contribuciones se encuentra abierta durante todo el año.',
   ),
   'publicationFeeDescription' => 
   array (
@@ -857,21 +624,6 @@ Confirmar que:
 -	Las referencias aparezcan en orden alfabético y suborden cronológico.
 -	Las citas expuestas en el artículo deberán constar en las referencias bibliográficas, si en las referencias no aparece un autor citado en el texto será motivo de rechazo del artículo.',
   ),
-  'reviewPolicy' => 
-  array (
-    'es_ES' => 'Todos los artículos enviados para su posible publicación en la revista UTCiencia serán sometidos a la revisión de la comisión de arbitraje que forma parte de la revista. 
-
-En primera instancia, el comité editorial hará una revisión de los documentos utilizando la herramienta digital OURIGINAL (Urkund y PlagScan) con la finalidad de detectar si existe plagio en los archivos recibidos. Una vez aprobada esta etapa se prosigue con la verificación del formato exigido en las normas para los autores. Posteriormente el documento es enviado al grupo de árbitros, nacionales o internacionales, para la evaluación de las propuestas bajo la modalidad de doble ciego. Los árbitros deberán evaluar los artículos de forma objetiva, crítica así mismo deberán demostrar imparcialidad para poder garantizar la originalidad, innovación y el carácter científico de los artículos.
-
-PROCESO DE SELECCIÓN DE ARTÍCULOS
-
-Todos los artículos enviados a la revista serán sometidos a un proceso de evaluación y revisión que consta de diversas fases. Primera, los artículos que cumplan con las instrucciones para autores de la revista, que no contengan errores ortográficos ni gramaticales y la literatura esté correctamente citada y enlistada al final de cada uno de ellos serán dados por recibidos. Segunda, los artículos recibidos pasarán a una fase de evaluación por parte de los miembros del comité editorial de la revista, quienes se encargarán de supervisar que el contenido del artículo sea coherente en lo teórico como en lo metodológico. Los artículos que pasen esta etapa serán revisados por dos pares evaluadores externos expertos en la temática del artículo. Tercera, una vez que el artículo se encuentre con los pares revisores y luego de que este haya sido evaluado en cuanto a su pertinencia, relevancia, originalidad, metodología, resultados, conclusiones y literatura citada, los evaluadores emitirán un dictamen de carácter anónimo con las siguientes recomendaciones:
-El artículo es publicable con modificaciones menores
-El artículo es publicable con modificaciones moderadas
-El artículo es publicable con modificaciones mayores
-El artículo no es publicable
-Las decisiones de los pares evaluadores son inapelables.',
-  ),
   'searchDescription' => 
   array (
     'es_ES' => 'La revista UTCiencia de la Universidad Técnica de Cotopaxi es una publicación cuatrimestral que recibe trabajos de investigación científica documental, aplicada y experimental de investigadores nacionales e internacionales.',
@@ -879,10 +631,6 @@ Las decisiones de los pares evaluadores son inapelables.',
   'searchKeywords' => 
   array (
     'es_ES' => 'ciencias exactas; ciencias de la vida; ciencias sociales',
-  ),
-  'sponsorNote' => 
-  array (
-    'es_ES' => 'Dirección General de Investigación de la Universidad Técnica de Cotopaxi',
   ),
   'submissionChecklist' => 
   array (

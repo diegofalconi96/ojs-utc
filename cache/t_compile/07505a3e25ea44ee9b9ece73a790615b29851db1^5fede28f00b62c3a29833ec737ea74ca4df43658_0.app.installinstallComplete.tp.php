@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-06-26 20:33:02
+/* Smarty version 3.1.33, created on 2023-06-13 18:55:31
   from 'app:installinstallComplete.tp' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_6499f5fee88401_97716335',
+  'unifunc' => 'content_6488bba3dc2804_75909981',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'app:common/footer.tpl' => 1,
   ),
 ),false)) {
-function content_6499f5fee88401_97716335 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6488bba3dc2804_75909981 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("app:common/header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array('pageTitle'=>"installer.installApplication"), 0, false);
 ?>
 

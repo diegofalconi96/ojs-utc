@@ -9,9 +9,6 @@
   'contactFax' => '',
   'contactName' => 'PhD. Hector Laurencio Alfonso',
   'contactPhone' => '0998978168',
-  'contributors' => 
-  array (
-  ),
   'copyrightHolderType' => '',
   'copyrightNoticeAgree' => false,
   'copyrightYearBasis' => '',
@@ -30,11 +27,7 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/ciya',
   'enableAnnouncementsHomepage' => false,
   'enableComments' => '1',
   'enableLockss' => true,
-  'enablePageNumber' => true,
-  'enablePublicArticleId' => false,
-  'enablePublicGalleyId' => false,
-  'enablePublicIssueId' => false,
-  'enablePublicSuppFileId' => false,
+  'enableOai' => true,
   'envelopeSender' => '',
   'fastTrackFee' => 0,
   'includeCopyrightStatement' => false,
@@ -49,7 +42,6 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/ciya',
   'mailingAddress' => '<p style="text-align:justify">Facultad de Ciencias de la Ingeniería y Aplicadas de la Universidad Técnica de Cotopaxi (UTC), cantón Latacunga, El Ejido, sector San Felipe. País: Ecuador. Provincia: Cotopaxi. Cantón: Latacunga. Teléfonos: 593 (03) 2810-296 / 2813-157 Extensión: 139 – 156. Fax: 593 (03) 2810-295. Email: revista.ciya@utc.edu.ec . Apartado postal: 05-01491</p>',
   'mailSubmissionsToReviewers' => true,
   'membershipFee' => 0,
-  'metaCitationOutputFilterId' => -1,
   'metaCitations' => true,
   'metaCoverage' => false,
   'metaDiscipline' => true,
@@ -116,9 +108,6 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/ciya',
   'rtViewReviewPolicy' => true,
   'showEnsuringLink' => false,
   'showGalleyLinks' => false,
-  'sponsors' => 
-  array (
-  ),
   'submissionFee' => 0,
   'supportedFormLocales' => 
   array (
@@ -146,30 +135,15 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/ciya',
     'es_ES' => '
 							<div id="focusAndScope">
 							<h3>Enfoque y alcance</h3>
-							<p><p style="text-align:justify">La Revista Ciencias de la Ingeniería y Aplicadas es una publicación periódica científica a texto completo bianual, se publica en los meses de junio y diciembre, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares con un 70% externo a la institución, frecuencia bianual, editada por la Facultad de Ciencias de la Ingeniería y Aplicadas de la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales de alta calidad de investigadores en su mayoría externos a la institución, relacionados con las actividades de investigación en las áreas de ingeniería Informática y Sistemas Computacionales, Ingeniería Industrial, Ingeniería Eléctrica, Ingeniería en Electromecánica y otras ciencias afines.</p></p>
+							<p><p style="text-align:justify">La Revista Ciencias de la Ingeniería y Aplicadas es una publicación periódica científica a texto completo bianual, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares con un 70% externo a la institución, frecuencia bianual, editada por la Facultad de Ciencias de la Ingeniería y Aplicadas de la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales de alta calidad de investigadores en su mayoría externos a la institución, relacionados con las actividades de investigación en las áreas de ingeniería Informática y Sistemas Computacionales, Ingeniería Industrial, Ingeniería Eléctrica, Ingeniería en Electromecánica y otras ciencias afines.</p></p>
 							</div>
 							<div id="peerReviewProcess">
 							<h3>Proceso de evaluación por pares</h3>
-							<p><p style="text-align:justify">Todos los artículos enviados para su posible publicación en la revista Ciencias de la Ingeniería y Aplicadas serán sometidos a la revisión de la comisión de arbitraje que forma parte de la revista.<br />
-<br />
-En primera instancia, el comité editorial hará una revisión de los documentos utilizando la herramienta digital OURIGINAL (Urkund y PlagScan) con la finalidad de detectar si existe plagio en los archivos recibidos. Una vez aprobada esta etapa se prosigue con la verificación del formato exigido en las normas para los autores. Posteriormente el documento es enviado al grupo de árbitros, nacionales o internacionales, para la evaluación de las propuestas bajo la modalidad de doble ciego. Los árbitros deberán evaluar los artículos de forma objetiva, crítica así mismo deberán demostrar imparcialidad para poder garantizar la originalidad, innovación y el carácter científico de los artículos.<br />
-<br />
-Proceso de selección de artículos<br />
-<br />
-Todos los artículos enviados a la revista Ciencias de la Ingeniería y Aplicadas, serán sometidos a un proceso de evaluación y revisión que consta de diversas fases. Primera, los artículos que cumplan con las instrucciones para autores de la revista, que no contengan errores ortográficos ni gramaticales y la literatura esté correctamente citada y enlistada al final de cada uno de ellos serán dados por recibidos. Segunda, los artículos recibidos pasarán a una fase de evaluación por parte de los miembros del comité editorial de la revista, quienes se encargarán de supervisar que el contenido del artículo sea coherente en lo teórico como en lo metodológico. Los artículos que pasen esta etapa serán revisados por dos pares evaluadores externos expertos en la temática del artículo. Tercera, una vez que el artículo se encuentre con los pares revisores y luego de que este haya sido evaluado en cuanto a su pertinencia, relevancia, originalidad, metodología, resultados, conclusiones y literatura citada, los evaluadores emitirán un dictamen de carácter anónimo con las siguientes recomendaciones:<br />
-<br />
--El artículo es publicable con modificaciones menores<br />
--El artículo es publicable con modificaciones moderadas<br />
--El artículo es publicable con modificaciones mayores<br />
--El artículo no es publicable<br />
-<br />
-Las decisiones de los pares evaluadores son inapelables.<br />
-<br />
-</p></p>
+							<p><p style="text-align:justify">Todos los artículos enviados para su posible publicación en la Revista CIYA serán sometidos a la revisión de la comisión de arbitraje que forma parte de la revista, que en su mayoría (70%) son externo a la institución. Los árbitros deberán evaluar los artículos de forma objetiva, crítica así mismo deberán demostrar imparcialidad para poder garantizar la originalidad, innovación y el carácter científico de los artículos.</p></p>
 							</div>
 							<div id="publicationFrequency">
 							<h3>Frecuencia de publicación</h3>
-							<p>La Revista Ciencias de la Ingeniería y Aplicadas es una publicación periódica científica a texto completo, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia bianual, se publica en los meses de junio y diciembre, editada por la Facultad de Ciencias de la Ingeniería y Aplicadas de la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales de alta calidad relacionados con las actividades de investigación en las áreas de Ingeniería Informática y Sistemas Computacionales, Ingeniería Industrial, Ingeniería Eléctrica e Ingeniería en Electromecánica. La convocatoria para la recepción de contribuciones se encuentra abierta durante todo el año.</p>
+							<p>La Revista Ciencias de la Ingeniería y Aplicadas es una publicación periódica científica a texto completo, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia bianual, editada por la Facultad de Ciencias de la Ingeniería y Aplicadas de la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales de alta calidad relacionados con las actividades de investigación en las áreas de Ingeniería Informática y Sistemas Computacionales, Ingeniería Industrial, Ingeniería Eléctrica e Ingeniería en Electromecánica.</p>
 							</div>
 							<div id="openAccessPolicy">
 							<h3>Política de acceso abierto</h3>
@@ -182,67 +156,6 @@ Las decisiones de los pares evaluadores son inapelables.<br />
 * Certificado de aceptación de indexación en la base de datos DRJI. <a href="http://olddrji.lbp.world/IndexingCertificate.aspx?jid=4687"> http://olddrji.lbp.world/IndexingCertificate.aspx?jid=4687</a><br />
 <br />
 <a href="https://scholar.google.com/"><img src="https://scholar.google.com/intl/es/scholar/images/1x/scholar_logo_64dp.png" width="225" height="30" border="0"></a> Google Académico. <a href="https://scholar.google.com/"> https://scholar.google.com/</a></p>
-								</div>
-								<div id="custom-1">
-								<h3>Código de ética</h3>
-								<p>La Universidad Técnica de Cotopaxi posee un código de ética integral, en dónde se determina elementos importantes relacionados a la gestión y a la investigación científica. La revista Ciencias de la Ingeniería y Aplicadas  toma como referencia los elementos de esta normativa, además, de los principios publicados por el Committee on Publication Ethics (COPE) en el Code of Conduct and Best Practice Guidelines for Journal Editors.<br />
-El Comité Editorial de la Revista Ciencias de la Ingeniería y Aplicadas, velarán para que editores, revisores pares y autores respeten los principios éticos durante todas las fases del proceso editorial. Con estos antecedentes, se detalla las normas a todos los interesados.<br />
-<br />
-1. Sobre autores y autoría.<br />
-1.1.	Los artículos que se envíen a Ciencias de la Ingeniería y Aplicadas deben ser originales e inéditos. <br />
-1.2.	La revista Ciencias de la Ingeniería y Aplicadas tiene acceso libre a todos sus documentos. Los artículos pueden leerse, descargarse, copiarse, distribuirse, imprimirse y hacer referencia al texto completo con atribución, sin ninguna restricción, de acuerdo con la licencia Commons the Attribution 4.0 the Creative International (CC BY 4.0). Publicar en la revista no tiene costo. <br />
-1.3.	Abstenerse del envío múltiple/repetitivo de artículos a publicaciones o editoriales diferentes. Ésta es una conducta reprobable en la difusión de investigaciones académicas. <br />
-1.4.	Respeto a las fuentes originales que consulta en su artículo. Las referencias bibliográficas deben estar citadas de manera correcta y completa.<br />
-1.5.	Posibles errores en los artículos publicados. Cuando el autor/a identifica en su trabajo un error o inexactitud, deberá informar al equipo editorial de Ciencias de la Ingeniería y Aplicadas y facilitarle la información necesaria para las correcciones.<br />
-1.6.	Los autores se comprometen a revisar la literatura académica más actual y relevante sobre el tema que investigan. No se descarta la utilización de literatura clásica o que sobrepasen los 5 años de publicación, siempre que el estado de arte así lo requiera.<br />
-1.7.	Ordenar la firma de autoría de acuerdo al nivel de responsabilidad e implicación en el artículo. Los autores garantizan la inclusión de aquellas personas que han hecho una contribución científica e intelectual significativa en la conceptualización y la planificación del trabajo como en la interpretación de los resultados y en la redacción del mismo.<br />
-2.	Sobre los pares evaluadores.<br />
-2.1.	Contribución a la decisión editorial. Los revisores asumen el compromiso de realizar una revisión crítica y constructiva, para garantizar la calidad científica de las contribuciones.<br />
-2.2.	La revisión por pares ciegos se realizará de manera objetiva, además, que su dictamen no contenga ningún juicio personal.<br />
-2.3.	Informar si existen conflictos de intereses. Cuando un evaluador o revisor tenga alguna opinión o interés de tipo personal que pudiera afectar su objetividad en su evaluación, debe abstenerse de participar en el proceso editorial.<br />
-2.4.	Anonimato. Los revisores nunca conocerán a los/as autores/as y tampoco tendrán conocimiento sobre la identidad del otro par ciego. <br />
-2.5.	Confidencialidad. Una vez terminado el proceso evaluativo, el revisor se abstendrá de divulgar lo leído a agentes externos a Ciencias de la Ingeniería y Aplicadas.<br />
-2.6.	Respeto de los tiempos pactados con la revista. El revisor tiene la responsabilidad de notificar a los editores en caso de existir inconvenientes para entregar la evaluación a tiempo. <br />
-<br />
-3.	De la responsabilidad de los editores.<br />
-3.1.	Honestidad. Garantizar la transparencia en los procesos de evaluación, edición y publicación de cada número.<br />
-3.2.	Confidencialidad. El equipo editorial mantendrá el anonimato entre revisores y autores durante todo el proceso. <br />
-3.3.	Responder inquietudes vía correo electrónico. Las consultas y aclaraciones solicitadas por autores, revisores o cualquier persona interesada en la revista Ciencias de la Ingeniería y Aplicadas  serán contestadas a la brevedad posible.<br />
-3.4.	Facilitar rectificaciones. Se publicarán correcciones o aclaraciones correspondientes a través de la página web de la revista.<br />
-3.5.	Proceso de revisión. Los editores seleccionarán a los revisores en relación al perfil profesional de la contribución.<br />
-3.6.	Respeto de los tiempos. Los editores responden por el cumplimiento de los límites de tiempo para las revisiones y la publicación de los trabajos aceptados, para asegurar una rápida difusión de sus resultados científicos.<br />
-Se comprometen a cumplir con los tiempos establecidos para dar una respuesta de publicación o no publicación de la contribución científica, la misma que debería tardar un máximo de 6 semanas desde la recepción de la contribución y un máximo de 12 semanas desde el inicio del proceso de revisión doble ciego hasta su publicación.<br />
-<br />
-4. Procedimientos para tratar conflictos de intereses. Política de transparencia.<br />
-El Comité Editorial de la revista Ciencias de la Ingeniería y Aplicadas  confía en lo que dicen los autores y en la objetividad/imparcialidad de los revisores pares. Los autores, a su vez, deben confiar en la integridad de los editores y revisores.<br />
-4.1. Ante conductas inapropiadas. Pueden ser identificadas y comunicadas al Director/a General o editor de la revista Ciencias de la Ingeniería y Aplicadas.<br />
-4.2. Proceso investigativo.<br />
-4.2.1. El editor debe iniciar una investigación y buscar asesoramiento jurídico en la institución responsable de la revista.<br />
-4.2.2. Recopilar las pruebas y mantener el anonimato en todo momento, para evitar filtraciones en el ámbito científico.<br />
-4.3. Infracciones. El tipo o clases de infracciones se lo definirán de acuerdo a la normativa nacional vigente o el código de ética de la Universidad Técnica de Cotopaxi.<br />
-<br />
-5. Consecuencias.<br />
-<br />
-5.1. Publicación de un editorial de la revista en el que se detalle la conducta  inapropiada. <br />
-5.2. Retiro formal de la publicación de la revista. <br />
-5.3. Embargo oficial sobre las contribuciones de un individuo/autor por un período definido.</p>
-								</div>
-								<div id="custom-2">
-								<h3>Detección de plagio</h3>
-								<p>La detección de plagio en los documentos enviados para publicaión en Ciencias de la Ingeniería y Aplicadas, será el primer paso de revisión por parte del Comité Editorial. Para esto se utiliza la herramienta digital OURIGINAL (Urkund y PlagScan). Cualquier documento que incurra en plagio será automáticamente descartado y devuelto al remitente.</p>
-								</div>
-								<div id="custom-3">
-								<h3>Protocolos de interoperabilidad</h3>
-								<p>La revista Ciencias de la Ingeniería y Aplicadas proporciona una interfaz OAI-PMH (Open Archives Initiative – Protocol for Metadata Harvesting) que permite que otros portales y servicios de información puedan acceder a los metadatos de los contenidos publicados.<br />
-<br />
-Especificaciones:<br />
-<br />
-OAI-PMH Protocol Version 2.0<br />
-Dublin Core Metadata<br />
-<br />
-Ruta para los cosechadores:<br />
-<br />
-<a href="http://investigacion.utc.edu.ec/revistasutc/index.php/ciya/oai">http://investigacion.utc.edu.ec/revistasutc/index.php/ciya/oai</a></p>
 								</div>
 								<div id="history">
 								<h3>Historial de la revista</h3>
@@ -326,85 +239,6 @@ al.</strong> El corrector/a de la revista editará el texto para mejorar la flui
 </li><li>Los autores pueden establecer por separado acuerdos adicionales para la distribución no exclusiva de la versión de la obra publicada en la revista (por ejemplo, situarlo en un repositorio institucional o publicarlo en un libro), con un reconocimiento de su publicación inicial en esta revista.
 </li><li>Se permite y se anima a los autores a difundir sus trabajos electrónicamente (por ejemplo, en repositorios institucionales o en su propio sitio web) antes y durante el proceso de envío, ya que puede dar lugar a intercambios productivos, así como a una citación más temprana y mayor de los trabajos publicados (Véase <a href="http://opcit.eprints.org/oacitation-biblio.html">The Effect of Open Access</a>) (en inglés).</ul>',
   ),
-  'customAboutItems' => 
-  array (
-    'es_ES' => 
-    array (
-      0 => 
-      array (
-        'title' => 'Índices de Publicación',
-        'content' => '<a href="http://olddrji.lbp.world/JournalProfile.aspx?jid=2602-8255"><img src="http://investigacion.utc.edu.ec/revistasutc/public/imgs/drji.jpg" width="88" height="78" border="0"></a> Es un servicio en línea gratuito que le ayuda a encontrar recursos web para sus artículos e investigaciones. DRJI ofrece fácil acceso a la literatura de educación para apoyar el uso de la investigación y la información educativa para mejorar la práctica en el aprendizaje, la enseñanza, la toma de decisiones educativas y de investigación. <a href="http://olddrji.lbp.world/JournalProfile.aspx?jid=2602-8255"> http://olddrji.lbp.world/JournalProfile.aspx?jid=2602-8255</a>
-
-* Certificado de aceptación de indexación en la base de datos DRJI. <a href="http://olddrji.lbp.world/IndexingCertificate.aspx?jid=4687"> http://olddrji.lbp.world/IndexingCertificate.aspx?jid=4687</a>
-
-<a href="https://scholar.google.com/"><img src="https://scholar.google.com/intl/es/scholar/images/1x/scholar_logo_64dp.png" width="225" height="30" border="0"></a> Google Académico. <a href="https://scholar.google.com/"> https://scholar.google.com/</a>',
-      ),
-      1 => 
-      array (
-        'title' => 'Código de ética',
-        'content' => 'La Universidad Técnica de Cotopaxi posee un código de ética integral, en dónde se determina elementos importantes relacionados a la gestión y a la investigación científica. La revista Ciencias de la Ingeniería y Aplicadas  toma como referencia los elementos de esta normativa, además, de los principios publicados por el Committee on Publication Ethics (COPE) en el Code of Conduct and Best Practice Guidelines for Journal Editors.
-El Comité Editorial de la Revista Ciencias de la Ingeniería y Aplicadas, velarán para que editores, revisores pares y autores respeten los principios éticos durante todas las fases del proceso editorial. Con estos antecedentes, se detalla las normas a todos los interesados.
-
-1. Sobre autores y autoría.
-1.1.	Los artículos que se envíen a Ciencias de la Ingeniería y Aplicadas deben ser originales e inéditos. 
-1.2.	La revista Ciencias de la Ingeniería y Aplicadas tiene acceso libre a todos sus documentos. Los artículos pueden leerse, descargarse, copiarse, distribuirse, imprimirse y hacer referencia al texto completo con atribución, sin ninguna restricción, de acuerdo con la licencia Commons the Attribution 4.0 the Creative International (CC BY 4.0). Publicar en la revista no tiene costo. 
-1.3.	Abstenerse del envío múltiple/repetitivo de artículos a publicaciones o editoriales diferentes. Ésta es una conducta reprobable en la difusión de investigaciones académicas. 
-1.4.	Respeto a las fuentes originales que consulta en su artículo. Las referencias bibliográficas deben estar citadas de manera correcta y completa.
-1.5.	Posibles errores en los artículos publicados. Cuando el autor/a identifica en su trabajo un error o inexactitud, deberá informar al equipo editorial de Ciencias de la Ingeniería y Aplicadas y facilitarle la información necesaria para las correcciones.
-1.6.	Los autores se comprometen a revisar la literatura académica más actual y relevante sobre el tema que investigan. No se descarta la utilización de literatura clásica o que sobrepasen los 5 años de publicación, siempre que el estado de arte así lo requiera.
-1.7.	Ordenar la firma de autoría de acuerdo al nivel de responsabilidad e implicación en el artículo. Los autores garantizan la inclusión de aquellas personas que han hecho una contribución científica e intelectual significativa en la conceptualización y la planificación del trabajo como en la interpretación de los resultados y en la redacción del mismo.
-2.	Sobre los pares evaluadores.
-2.1.	Contribución a la decisión editorial. Los revisores asumen el compromiso de realizar una revisión crítica y constructiva, para garantizar la calidad científica de las contribuciones.
-2.2.	La revisión por pares ciegos se realizará de manera objetiva, además, que su dictamen no contenga ningún juicio personal.
-2.3.	Informar si existen conflictos de intereses. Cuando un evaluador o revisor tenga alguna opinión o interés de tipo personal que pudiera afectar su objetividad en su evaluación, debe abstenerse de participar en el proceso editorial.
-2.4.	Anonimato. Los revisores nunca conocerán a los/as autores/as y tampoco tendrán conocimiento sobre la identidad del otro par ciego. 
-2.5.	Confidencialidad. Una vez terminado el proceso evaluativo, el revisor se abstendrá de divulgar lo leído a agentes externos a Ciencias de la Ingeniería y Aplicadas.
-2.6.	Respeto de los tiempos pactados con la revista. El revisor tiene la responsabilidad de notificar a los editores en caso de existir inconvenientes para entregar la evaluación a tiempo. 
-
-3.	De la responsabilidad de los editores.
-3.1.	Honestidad. Garantizar la transparencia en los procesos de evaluación, edición y publicación de cada número.
-3.2.	Confidencialidad. El equipo editorial mantendrá el anonimato entre revisores y autores durante todo el proceso. 
-3.3.	Responder inquietudes vía correo electrónico. Las consultas y aclaraciones solicitadas por autores, revisores o cualquier persona interesada en la revista Ciencias de la Ingeniería y Aplicadas  serán contestadas a la brevedad posible.
-3.4.	Facilitar rectificaciones. Se publicarán correcciones o aclaraciones correspondientes a través de la página web de la revista.
-3.5.	Proceso de revisión. Los editores seleccionarán a los revisores en relación al perfil profesional de la contribución.
-3.6.	Respeto de los tiempos. Los editores responden por el cumplimiento de los límites de tiempo para las revisiones y la publicación de los trabajos aceptados, para asegurar una rápida difusión de sus resultados científicos.
-Se comprometen a cumplir con los tiempos establecidos para dar una respuesta de publicación o no publicación de la contribución científica, la misma que debería tardar un máximo de 6 semanas desde la recepción de la contribución y un máximo de 12 semanas desde el inicio del proceso de revisión doble ciego hasta su publicación.
-
-4. Procedimientos para tratar conflictos de intereses. Política de transparencia.
-El Comité Editorial de la revista Ciencias de la Ingeniería y Aplicadas  confía en lo que dicen los autores y en la objetividad/imparcialidad de los revisores pares. Los autores, a su vez, deben confiar en la integridad de los editores y revisores.
-4.1. Ante conductas inapropiadas. Pueden ser identificadas y comunicadas al Director/a General o editor de la revista Ciencias de la Ingeniería y Aplicadas.
-4.2. Proceso investigativo.
-4.2.1. El editor debe iniciar una investigación y buscar asesoramiento jurídico en la institución responsable de la revista.
-4.2.2. Recopilar las pruebas y mantener el anonimato en todo momento, para evitar filtraciones en el ámbito científico.
-4.3. Infracciones. El tipo o clases de infracciones se lo definirán de acuerdo a la normativa nacional vigente o el código de ética de la Universidad Técnica de Cotopaxi.
-
-5. Consecuencias.
-
-5.1. Publicación de un editorial de la revista en el que se detalle la conducta  inapropiada. 
-5.2. Retiro formal de la publicación de la revista. 
-5.3. Embargo oficial sobre las contribuciones de un individuo/autor por un período definido.',
-      ),
-      2 => 
-      array (
-        'title' => 'Detección de plagio',
-        'content' => 'La detección de plagio en los documentos enviados para publicaión en Ciencias de la Ingeniería y Aplicadas, será el primer paso de revisión por parte del Comité Editorial. Para esto se utiliza la herramienta digital OURIGINAL (Urkund y PlagScan). Cualquier documento que incurra en plagio será automáticamente descartado y devuelto al remitente.',
-      ),
-      3 => 
-      array (
-        'title' => 'Protocolos de interoperabilidad',
-        'content' => 'La revista Ciencias de la Ingeniería y Aplicadas proporciona una interfaz OAI-PMH (Open Archives Initiative – Protocol for Metadata Harvesting) que permite que otros portales y servicios de información puedan acceder a los metadatos de los contenidos publicados.
-
-Especificaciones:
-
-OAI-PMH Protocol Version 2.0
-Dublin Core Metadata
-
-Ruta para los cosechadores:
-
-<a href="http://investigacion.utc.edu.ec/revistasutc/index.php/ciya/oai">http://investigacion.utc.edu.ec/revistasutc/index.php/ciya/oai</a>',
-      ),
-    ),
-  ),
   'description' => 
   array (
     'es_ES' => 'La Revista Ciencias de la Ingeniería y Aplicadas es una publicación periódica científica y académica a texto completo. E<span>stá dirigida a estudiantes, docentes e investigadores nacionales e internacionales que pertenezcan al ámbito de la Informática y Sistemas Computacionales, Ingeniería Industrial, Eléctrica, Electromecánica e Hidráulica, </span>sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia bianual, editada por la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales de alta calidad.<p>Envíe su trabajo al siguiente correo: <strong>revista.ciya@utc.edu.ec</strong></p>',
@@ -419,7 +253,7 @@ Ruta para los cosechadores:
   ),
   'editorialTeam' => 
   array (
-    'es_ES' => '<div id="group"><h4>COMITÉ EDITORIAL</h4><p>Héctor Luís Laurencio Alfonso, Universidad Técnica de Cotopaxi, Ecuador</p><p>José Augusto Cadena Moreano, Universidad Técnica de Cotopaxi, Ecuador</p><h4>CONSEJO CIENTÍFICO</h4><p>Secundino Marrero Ramirez, Universidad Técnica de Cotopaxi, Ecuador</p><p>Carlos Zalazar Oliva, Universidad de Moa, Cuba</p><p>Willy Ramírez Chávarry, Universidad San Martín de Porres, Peru</p><p>Víctor Hugo Hidalgo Díaz, Escuela Politécnica Nacional, Ecuador</p><p>Arlis Michel Lastre Aleaga, Universidad Tecnológica Equinoccial, Ecuador</p><p>Daniel Guzmán del Río, Universidad Federal do Río de Janeiro, Brazil</p><p>Yánez Edilberto Cedeño, Universidad Internacional SEK, Ecuador</p><p>Yoalbis Retirado, Instituto Superior Minero Metalúrgico de Moa, Cuba</p><p>María José López-Huerta, Universidad de Granada, Spain</p><p>Enrique Torres Tamayo, Universidad Técnica de Cotopaxi, Ecuador</p><p>Rey Segundo Guerrero Proenza, Universidad de Ciencias Informáticas, Cuba</p></div>',
+    'es_ES' => '<div id="group"><h4>COMITÉ EDITORIAL</h4><p>Idalia Pacheco, Universidad Técnica de Cotopaxi, Ecuador</p><p>Mauro Albarracín Álvarez, Universidad Técnica de Cotopaxi, Ecuador</p><p>Hector Luís Laurencio Alfonso, Universidad Técnica de Cotopaxi, Ecuador</p><p>José Augusto Cadena Moreano, Universidad Técnica de Cotopaxi, Ecuador</p><h4>CONSEJO CIENTÍFICO</h4><p>Willy Ramírez Chávarry, Universidad Técnica de Cotopaxi, Ecuador</p><p>Víctor Hugo Hidalgo Díaz, Escuela Politécnica Nacional, Ecuador</p><p>Arlis Michel Lastre Aleaga, Universidad Tecnológica Equinoccial, Ecuador</p><p>Daniel Guzmán del Río, Universidad Técnica de Cotopaxi, Brazil</p><p>Yánez Edilberto Cedeño, Universidad Técnica de Cotopaxi, Ecuador</p><p>Gustavo Rodríguez Bárcenas, Universidad Técnica de Cotopaxi, Ecuador</p><p>Mayra Susana Albán, Universidad Técnica de Cotopaxi, Ecuador</p><p>Segundo Cevallos Betún, Universidad Técnica de Cotopaxi, Ecuador</p><p>Yoalbis Retirado, Instituto Superior Minero Metalúrgico de Moa, Cuba</p><p>María José López-Huerta, Universidad de Granada, Spain</p><p>Enrique Torres Tamayo, Universidad Técnica de Cotopaxi, Ecuador</p><p>Secundino Marrero Ramirez, Universidad Técnica de Cotopaxi, Ecuador</p><p>Rey Segundo Guerrero Proenza, Universidad de Ciencias Informáticas, Cuba</p></div>',
   ),
   'fastTrackFeeDescription' => 
   array (
@@ -428,14 +262,6 @@ Ruta para los cosechadores:
   'fastTrackFeeName' => 
   array (
     'es_ES' => 'Revisión rápida',
-  ),
-  'focusScopeDesc' => 
-  array (
-    'es_ES' => '<p style="text-align:justify">La Revista Ciencias de la Ingeniería y Aplicadas es una publicación periódica científica a texto completo bianual, se publica en los meses de junio y diciembre, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares con un 70% externo a la institución, frecuencia bianual, editada por la Facultad de Ciencias de la Ingeniería y Aplicadas de la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales de alta calidad de investigadores en su mayoría externos a la institución, relacionados con las actividades de investigación en las áreas de ingeniería Informática y Sistemas Computacionales, Ingeniería Industrial, Ingeniería Eléctrica, Ingeniería en Electromecánica y otras ciencias afines.</p>',
-  ),
-  'history' => 
-  array (
-    'es_ES' => 'La revista inicia en enero del 2017, es una iniciativa de la Facultad de Ciencias de la Ingeniería y Aplicadas de la Universidad Técnica de Cotopaxi en aras de divulgar información científica relevante, a toda la comunidad universitaria, invitando a la participación a los autores externos a la UTC y en menor cuantía a los docentes investigadores de la institución.',
   ),
   'homeHeaderLogoImageAltText' => 
   array (
@@ -464,14 +290,8 @@ Ruta para los cosechadores:
   'journalPageFooter' => 
   array (
     'es_ES' => '<hr width="100%">
-
 <p style="text-align:center">
-<a href="https://www.latindex.org/latindex/Solr/Busqueda?idModBus=0&buscar=ciencias+de+la+ingenier%C3%ADa+y+aplicadas&submit=Buscar"><img src="https://revistas.usfq.edu.ec/public/site/images/usfqlawreview/latindex_con_fdo2.png" width="88" height="78" border="0"></a>
-
-
-<a href="http://olddrji.lbp.world/JournalProfile.aspx?jid=2602-8255"><img src="http://investigacion.utc.edu.ec/revistasutc/public/imgs/drji.jpg" width="88" height="78" border="0"></a>
-
-
+<a href="http://olddrji.lbp.world/JournalProfile.aspx?jid=2602-8255"><img src="http://investigacion.utc.edu.ec/revistasutc/public/imgs/drji.jpg" width="88" height="78" border="0"></a> * Certificado de aceptación de indexación en la base de datos DRJI. <a href="http://olddrji.lbp.world/IndexingCertificate.aspx?jid=4687"> http://olddrji.lbp.world/IndexingCertificate.aspx?jid=4687</a>
 
 
 <hr width="75%">
@@ -556,10 +376,6 @@ hs.src = (\'//s10.histats.com/js15_as.js\');
       ),
     ),
   ),
-  'openAccessPolicy' => 
-  array (
-    'es_ES' => 'Esta revista proporciona un acceso abierto inmediato a su contenido, basado en el principio de que ofrecer al público un acceso libre a las investigaciones ayuda a un mayor intercambio global de conocimiento.',
-  ),
   'pageHeaderTitleType' => 
   array (
     'es_ES' => '1',
@@ -571,10 +387,6 @@ hs.src = (\'//s10.histats.com/js15_as.js\');
   'proofInstructions' => 
   array (
     'es_ES' => '<p>La fase de corrección de pruebas tiene el propósito de detectar errores ortográficos en la galerada, así como gramaticales y de formato. En esta fase no se realizan más cambios importantes, a menos que se haya acordado con el editor/a de sección. En Maquetación, haga clic en VER PRUEBA para ver los HTML, PDF y otros formatos de archivo disponibles utilizados en la edición de este elemento.</p> <h4>Para errores ortográficos y gramaticales</h4> <p>Copie la palabra o grupo de palabras problemáticas y péguelas en el cuadro de correciones de pruebas con instrucciones al editor/a "CAMBIAR-POR" como sigue:</p> <pre>1. CAMBIAR... entonces los otras POR... entonces los otros</pre> <br /> <pre>2. CAMBIAR... Malinowsky POR... Malinowski</pre> <br /> <h4>Para errores de formato</h4> <p>Describa la ubicación y naturaleza del problema en el cuadro de correcciones de pruebas después de escribir en el título "FORMATO" como sigue:</p> <br /> <pre>3. FORMATO Los números de la Tabla 3 no están alineados en la tercera columna.</pre> <br /> <pre>4. FORMATO El párrafo que comienza con "Este último tema..." no está sangrado.</pre>',
-  ),
-  'pubFreqPolicy' => 
-  array (
-    'es_ES' => 'La Revista Ciencias de la Ingeniería y Aplicadas es una publicación periódica científica a texto completo, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia bianual, se publica en los meses de junio y diciembre, editada por la Facultad de Ciencias de la Ingeniería y Aplicadas de la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales de alta calidad relacionados con las actividades de investigación en las áreas de Ingeniería Informática y Sistemas Computacionales, Ingeniería Industrial, Ingeniería Eléctrica e Ingeniería en Electromecánica. La convocatoria para la recepción de contribuciones se encuentra abierta durante todo el año.',
   ),
   'publicationFeeDescription' => 
   array (
@@ -656,25 +468,6 @@ Confirmar que:
 <li>-	Toda referencia cuente con la información que se pide en las instrucciones para autores, en orden alfabético y cronológico. Verificar que se especifique el número de página y año de la publicación pues estos son los errores más comunes.
 </li><li>-	Las referencias aparezcan en orden alfabético y suborden cronológico.
 </li><li>-	Las citas expuestas en el artículo deberán constar en las referencias bibliográficas, si en las referencias no aparece un autor citado en el texto será motivo de rechazo del artículo.</li></ul>',
-  ),
-  'reviewPolicy' => 
-  array (
-    'es_ES' => '<p style="text-align:justify">Todos los artículos enviados para su posible publicación en la revista Ciencias de la Ingeniería y Aplicadas serán sometidos a la revisión de la comisión de arbitraje que forma parte de la revista.
-
-En primera instancia, el comité editorial hará una revisión de los documentos utilizando la herramienta digital OURIGINAL (Urkund y PlagScan) con la finalidad de detectar si existe plagio en los archivos recibidos. Una vez aprobada esta etapa se prosigue con la verificación del formato exigido en las normas para los autores. Posteriormente el documento es enviado al grupo de árbitros, nacionales o internacionales, para la evaluación de las propuestas bajo la modalidad de doble ciego. Los árbitros deberán evaluar los artículos de forma objetiva, crítica así mismo deberán demostrar imparcialidad para poder garantizar la originalidad, innovación y el carácter científico de los artículos.
-
-Proceso de selección de artículos
-
-Todos los artículos enviados a la revista Ciencias de la Ingeniería y Aplicadas, serán sometidos a un proceso de evaluación y revisión que consta de diversas fases. Primera, los artículos que cumplan con las instrucciones para autores de la revista, que no contengan errores ortográficos ni gramaticales y la literatura esté correctamente citada y enlistada al final de cada uno de ellos serán dados por recibidos. Segunda, los artículos recibidos pasarán a una fase de evaluación por parte de los miembros del comité editorial de la revista, quienes se encargarán de supervisar que el contenido del artículo sea coherente en lo teórico como en lo metodológico. Los artículos que pasen esta etapa serán revisados por dos pares evaluadores externos expertos en la temática del artículo. Tercera, una vez que el artículo se encuentre con los pares revisores y luego de que este haya sido evaluado en cuanto a su pertinencia, relevancia, originalidad, metodología, resultados, conclusiones y literatura citada, los evaluadores emitirán un dictamen de carácter anónimo con las siguientes recomendaciones:
-
--El artículo es publicable con modificaciones menores
--El artículo es publicable con modificaciones moderadas
--El artículo es publicable con modificaciones mayores
--El artículo no es publicable
-
-Las decisiones de los pares evaluadores son inapelables.
-
-</p>',
   ),
   'searchDescription' => 
   array (

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-07-04 14:19:25
+/* Smarty version 3.1.33, created on 2023-06-13 19:20:01
   from 'app:commonformErrors.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_64a42a6d8baf92_52099181',
+  'unifunc' => 'content_6488c1619bda59_78207120',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '2fb8d9b12c20c27db91b4799a3cea99714d3093c' => 
     array (
       0 => 'app:commonformErrors.tpl',
-      1 => 1688408135,
+      1 => 1575681981,
       2 => 'app',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_64a42a6d8baf92_52099181 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6488c1619bda59_78207120 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['isError']->value) {?>
 	<div id="formErrors">
 		<span class="pkp_form_error"><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['translate'][0], array( array('key'=>"form.errorsOccurred"),$_smarty_tpl ) );?>

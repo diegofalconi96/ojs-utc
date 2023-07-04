@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-07-04 14:19:25
+/* Smarty version 3.1.33, created on 2023-06-13 19:20:01
   from 'app:installupgrade.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_64a42a6d841e83_35829669',
+  'unifunc' => 'content_6488c161928b47_47405560',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'f93a2ca2f8c951f060630ff114f85fb48da6b71b' => 
     array (
       0 => 'app:installupgrade.tpl',
-      1 => 1688408135,
+      1 => 1575681981,
       2 => 'app',
     ),
   ),
@@ -23,7 +23,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'app:common/footer.tpl' => 1,
   ),
 ),false)) {
-function content_64a42a6d841e83_35829669 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6488c161928b47_47405560 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("app:common/header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array('pageTitle'=>"installer.upgradeApplication"), 0, false);
 ?>
 

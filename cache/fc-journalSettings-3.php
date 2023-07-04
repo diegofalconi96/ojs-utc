@@ -9,9 +9,6 @@
   'contactFax' => '',
   'contactName' => 'Ricardo Ureña',
   'contactPhone' => '',
-  'contributors' => 
-  array (
-  ),
   'copyrightHolderType' => 'author',
   'copyrightNoticeAgree' => true,
   'copyrightYearBasis' => 'article',
@@ -31,11 +28,7 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/rimarina',
   'enableAnnouncementsHomepage' => false,
   'enableComments' => '3',
   'enableLockss' => true,
-  'enablePageNumber' => true,
-  'enablePublicArticleId' => false,
-  'enablePublicGalleyId' => false,
-  'enablePublicIssueId' => false,
-  'enablePublicSuppFileId' => false,
+  'enableOai' => true,
   'envelopeSender' => '',
   'fastTrackFee' => 0,
   'includeCopyrightStatement' => true,
@@ -52,7 +45,6 @@ Facultad de Ciencias Sociales, Artes y Educación
 Teléfonos: (593) 03 2252205 / 2252307 / 2252346. www.utc.edu.ec',
   'mailSubmissionsToReviewers' => true,
   'membershipFee' => 0,
-  'metaCitationOutputFilterId' => 20,
   'metaCitations' => true,
   'metaCoverage' => true,
   'metaDiscipline' => true,
@@ -119,9 +111,6 @@ Teléfonos: (593) 03 2252205 / 2252307 / 2252346. www.utc.edu.ec',
   'rtViewReviewPolicy' => false,
   'showEnsuringLink' => true,
   'showGalleyLinks' => false,
-  'sponsors' => 
-  array (
-  ),
   'statisticsSectionIds' => 
   array (
     0 => '4',
@@ -398,64 +387,6 @@ Aquellos autores/as que tengan publicaciones con esta revista, aceptan los térm
 
     Se permite y recomienda a los autores/as difundir su obra a través de Internet (p. ej.: en archivos telemáticos institucionales o en su página web) antes y durante el proceso de envío, lo cual puede producir intercambios interesantes y aumentar las citas de la obra publicada. (Véase El efecto del acceso abierto).',
   ),
-  'customAboutItems' => 
-  array (
-    'es_ES' => 
-    array (
-      0 => 
-      array (
-        'title' => 'Políticas de detección de plagio',
-        'content' => 'El artículo debe ser original e inédito y, precisamente, para garantizar que la propuesta no incurra en problemas de plagio académico, se envía los documentos al sistema Urkund, un programa que permite identificar grados de semejanza con otras fuentes.
-
-En caso de detectar plagio el documento será rechazado de manera inmediata y se le notificará al autor/es.',
-      ),
-      1 => 
-      array (
-        'title' => 'Normas de ética',
-        'content' => 'Los autores al enviar sus propuestas cumplen con los siguientes criterios éticos ante la Revista Rimarina:
-
-1.	Originalidad: los autores deben garantizar que la propuesta enviada a Rimarina sea inédita y todas las fuentes empleadas hayan sido debidamente citadas y referenciadas. Además, los autores deben garantizar que su propuesta no ha sido publicada previamente en otra revista o que esté en proceso de revisión simultánea con Rimarina.
-
-2.	Consentimiento informado: toda investigación social podría incluir temas sensibles y/o en el que participen niños, niñas y adolescentes, por tanto, es necesario contar con la autorización de sus cuidadores principales. Es importante mencionar en el artículo todas las precauciones que se tomaron; de ser el caso, se tendrá que explicar si se recurrió a un Comité de Ética, como instancia que garantice el adecuado uso de las técnicas e instrumentos. 
-
-3.	Anonimato y confidencialidad: Como parte del proceso de investigación se debe garantizar a los participantes que en ningún momento se revelará su identidad, se puede recurrir al uso de seudónimos o códigos que faciliten la identificación de la información. Además, hay que garantizar que los datos recopilados serán usados con fines exclusivamente académicos.
-
-4.	Autoría: Los autores se comprometen a que en su propuesta figuran únicamente aquellos que han colaborado en la realización del artículo. Además, deben garantizar que no se ha excluido a autores que han participado significativamente en el proceso de redacción del trabajo.',
-      ),
-      2 => 
-      array (
-        'title' => 'Frecuencia de publicación',
-        'content' => 'Rimarina, Revista de Ciencias Sociales y Humanidades es una publicación semestral editada por la Universidad Técnica de Cotopaxi a través de la Facultad de Ciencias Sociales, Artes y Educación.
-
-El periodo que cubre es: enero-junio y julio-diciembre; los números se publican en el primer mes de cada periodo (enero y julio).',
-      ),
-      3 => 
-      array (
-        'title' => 'Cargos del autor',
-        'content' => 'Rimarina garantiza el acceso libre y gratuito a todas sus publicaciones, es decir, no cuenta con cargos o tasas por el procesamiento de sus artículos: la recepción, evaluación, publicación y/o descarga de artículos es completamente gratuita.',
-      ),
-      4 => 
-      array (
-        'title' => 'Servicios de interactividad',
-        'content' => 'Rimarina incluye espacios para comentarios en la parte inferior izquierda de los documentos publicados. El objetivo es facilitar la interactividad con las personas lectoras.',
-      ),
-      5 => 
-      array (
-        'title' => 'Derechos de autor',
-        'content' => 'Los autores y autoras tienen derechos exclusivos sobre el trabajo publicado.
-
-La revista tiene acceso libre. Los artículos pueden leerse, descargarse, copiarse, distribuirse, imprimirse y hacer referencia al texto completo con atribución, sin ninguna restricción, de acuerdo con la licencia Commons the Attribution 4.0 the Creative International (CC BY 4.0).
-
-https://creativecommons.org/licenses/by/4.0/
-
-Compartir — copiar y redistribuir el material en cualquier medio o formato.
-Adapt — remezclar, transformar y construir sobre el material para cualquier propósito, incluso en el comercio.
- 
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material for any purpose, even commercially.',
-      ),
-    ),
-  ),
   'description' => 
   array (
     'es_ES' => 'Rimarina, Revista de Ciencias Sociales y Humanidades es una publicación semestral editada por la Universidad Técnica de Cotopaxi a través de la Facultad de Ciencias Sociales, Artes y Educación. Está dirigida a investigadores nacionales e internacionales que pertenezcan al ámbito de las Ciencias Sociales y Humanidades. Su objetivo es incentivar el debate científico en torno a las diversas problemáticas de este campo.',
@@ -479,20 +410,6 @@ Adapt — remix, transform, and build upon the material for any purpose, even co
   'fastTrackFeeName' => 
   array (
     'es_ES' => 'Revisión rápida',
-  ),
-  'focusScopeDesc' => 
-  array (
-    'es_ES' => 'Rimarina, Revista de Ciencias Sociales y Humanidades, es una publicación semestral editada por la Universidad Técnica de Cotopaxi a través de la Facultad de Ciencias Sociales, Artes y Educación. Está dirigida a investigadores nacionales e internacionales que pertenezcan al ámbito de las Ciencias Sociales y Humanidades. Su objetivo es incentivar el debate científico en torno a las diversas problemáticas de este campo. 
-
-Rimarina acepta trabajos escritos en español o inglés. El número máximo de autores permitido por cada propuesta será de cuatro; en caso de que se supere este número se deberá presentar la debida justificación al Comité Editorial para  que sea evaluada. Las propuestas que no se ajusten a las normas para autoras y autores de la revista no serán consideradas como recibidas.
-
-Rimarina recibe únicamente propuestas que cumplan con el carácter de originalidad a través de las convocatorias establecidas por el Comité Editorial. Los artículos que se ajusten y cumplan con la normativa de la revista serán considerados como recibidos. La revista Rimarina cuenta con árbitros nacionales e internacionales que realizarán la evaluación de las propuestas bajo la modalidad de doble ciego.
-
-El periodo que cubre es: enero-junio y julio-diciembre; los números se publican en el primer mes de cada periodo (enero y julio).',
-  ),
-  'history' => 
-  array (
-    'es_ES' => 'La revista Rimarina surge como una iniciativa de la Universidad Técnica de Cotopaxi a través de la Facultad de Ciencias Sociales, Artes y Educación para contribuir con el debate académico y científico en el ámbito de las Humanidades y las Ciencias Sociales.',
   ),
   'homeHeaderTitleImage' => 
   array (
@@ -631,22 +548,6 @@ Además, esta revista utiliza el sistema LOCKSS para crear un sistema de archivo
       ),
     ),
   ),
-  'openAccessPolicy' => 
-  array (
-    'es_ES' => 'Esta revista proporciona un acceso abierto, libre e inmediato a su contenido, basado en el principio de que ofrecer al público un acceso libre a las investigaciones ayuda a un mayor intercambio global de conocimiento. Los artículos pueden leerse, descargarse, copiarse, distribuirse, imprimirse y hacer referencia al texto completo con atribución, sin ninguna restricción. Para garantizarlo se recurre a una licencia abierta:
-
-LICENCIA CREATIVE COMMONS (CC BY 4.0).
-
- <br><a href="https://creativecommons.org/licenses/by/4.0/" target="_new">Licencia creative commons</a>
-
-Compartir — copiar y redistribuir el material en cualquier medio o formato.
-Adapt — remezclar, transformar y construir sobre el material para cualquier propósito, incluso en el comercio.
-
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material for any purpose, even commercially.
-
-De esta manera se busca que todos y todas tengan acceso al conocimiento científico.',
-  ),
   'pageHeaderLogoImageAltText' => 
   array (
     'es_ES' => 'Rimarina',
@@ -706,42 +607,6 @@ De esta manera se busca que todos y todas tengan acceso al conocimiento científ
   'refLinkInstructions' => 
   array (
     'es_ES' => '<h4>Añadir enlaces de referencia en el proceso de maquetación</h4> <p>Al convertir un envío a HTML o PDF, asegúrese de que todos los hipervínculos del envío están activos.</p> <h4>A. Si el autor/a proporciona un enlace con la referencia</h4> <ol> <li>Mientras el envío se encuentre todavía en formato de procesador de textos (p. ej., Word), añada la frase VER ELEMENTO al final de la referencia con la dirección URL.</li> <li>Convierta esa frase en un hipervínculo seleccionándola y utilizando la herramienta de Word Insertar hipervínculo y la dirección URL previa.</li> </ol> <h4>B. Permitir a los lectores/as buscar referencias en Google Académico</h4> <ol> <li>Mientras el envío se encuentre todavía en formato de procesador de textos (p. ej., Word), copie el título del trabajo referenciado en la lista de referencias (si el título es muy común —p. ej., "Paz"— copie también el autor).</li> <li>Pegue el título de la referencia entre los dos símbolos %22 y coloque un símbolo + entre cada palabra: http://scholar.google.com/sc?q=%22PEGAR+TÍTULO+AQUÍ%22</li> <li>Añada la frase BÚSQUEDA GOOGLE ACADÉMICO al final de cada cita en la lista de referencias del envío.</li> <li>Convierta esa frase en un hipervínculo seleccionándola y utilizando la herramienta de Word Insertar hipervínculo y la dirección URL preparada en el apartado nº 2.</li> </ol> <h4>C. Permitir a los lectores/as buscar referencias con un DOI</h4> <ol> <li>Mientras el envío se encuentre todavía en Word, copie un lote de referencias en el texto de consulta CrossRef http://www.crossref.org/freeTextQuery/.</li> <li>Pegue cada DOI que le proporcione la consulta en la siguiente dirección URL (entre = y &amp;): http://www.cmaj.ca/cgi/external_ref?access_num=PEGAR DOI#AQUÍ&amp;link_type=DOI.</li> <li>Añada la frase CrossRef al final de cada cita en la lista de referencias del envío.</li> <li>Convierta esa frase en un hipervínculo seleccionándola y utilizando la herramienta de Word Insertar hipervínculo y la dirección URL preparada en el apartado nº 2.</li> </ol>',
-  ),
-  'reviewPolicy' => 
-  array (
-    'es_ES' => 'SISTEMA DE ARBITRAJE 
-
-Las fases de revisión incluyen lo siguiente:
-
-1.	Las propuestas recibidas serán evaluadas, en primer término, por el Comité Editorial de la Revista Rimarina, instancia que hará una lectura detallada de la propuesta. Aquellas que cumplan con requisitos de: a) originalidad y relevancia, b) relación con el ámbito de la revista, c) formato exigido por la revista; y, d) no presenten plagio académico, serán consideradas para continuar con la siguiente fase del proceso editorial.
-
-La detección de plagio se realizará mediante el programa Urkund.
-
-2.	Las propuestas que cumplan con lo señalado anteriormente serán remitidas a dos árbitros externos a la institución editora para que realicen un análisis bajo el sistema de doble ciego, instancia que no excederá las 4 semanas. El dictamen de los árbitros evaluadores puede ser el siguiente:
-
--	Publicable
--	Publicable condicionado a cambios obligatorios
--	No publicable
-
-Frente a los distintos tipos de dictámenes de los árbitros, así como las probables controversias el Comité Editorial se guía por la propuesta de López-Vera (2021) quien propone que en caso de que uno de los árbitros haya emitido un dictamen de "No publicable", hay que enviar a un tercer árbitro externo.
-
-3.	En caso de que uno de los árbitros externos haya considerado que el documento es “Publicable condicionado a cambios obligatorios” se les otorgará a los autores el plazo de 15 días para la realización de dichas modificaciones. Posteriormente, el documento será enviado nuevamente al árbitro quien, en el plazo de 15 días, emitirá el dictamen final, el cual será inapelable. 
-
-4.	La instancia responsable de aprobar el artículo después de su evaluación son los árbitros externos.
-
-5.	Las propuestas que obtienen el dictamen final de publicable por parte de los revisores pasan al proceso de corrección de estilo; posteriormente, se envía a diagramación y, finalmente, se remite a los autores para que verifiquen aspectos de forma.
-
-6.	Una vez que la versión diagramada ha sido aprobada por el autor es publicada en la plataforma OJS de la revista.
-
-7.	Los autores serán notificados de la publicación oficial de su propuesta.
-
-La comunicación con autores y revisores será a través del correo electrónico, por ese medio se notificarán todas las inquietudes y resultados del proceso editorial: certificados de aceptación y rechazo de las propuestas. En ambos casos se explicarán los motivos. 
-
-A partir de la notificación del dictamen “no publicable”, el autor(es) está(n) habilitado(s) para enviar su propuesta a otra revista científica.
-
-TIEMPOS DE EVALUACIÓN
-
-El tiempo estimado para el proceso editorial, el cual incluye la evaluación y publicación de una propuesta no sobrepasa los cinco meses (150 días).',
   ),
   'submissionChecklist' => 
   array (
