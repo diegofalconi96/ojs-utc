@@ -20,4 +20,4 @@
 	{$currentContext->getLocalizedSetting('editorialTeam')}
 </div><!-- .page -->
 
-{include file="frontend/components/footer.tpl"}
+{include file="../components/footer.tpl"}
