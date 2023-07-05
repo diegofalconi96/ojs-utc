@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-06-26 20:33:52
+/* Smarty version 3.1.33, created on 2023-07-05 16:12:16
   from 'app:userprofile.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_6499f630edb1c5_95724009',
+  'unifunc' => 'content_64a59660bfc159_17537692',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '1008b726a28deeda1b111c8b996bfb7069c64388' => 
     array (
       0 => 'app:userprofile.tpl',
-      1 => 1575681981,
+      1 => 1688488389,
       2 => 'app',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'app:common/footer.tpl' => 1,
   ),
 ),false)) {
-function content_6499f630edb1c5_95724009 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64a59660bfc159_17537692 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("app:common/header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array('pageTitle'=>"user.profile"), 0, false);
 ?>
 

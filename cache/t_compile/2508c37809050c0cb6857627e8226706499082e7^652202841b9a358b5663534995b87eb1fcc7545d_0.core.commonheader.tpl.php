@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-06-26 20:33:53
+/* Smarty version 3.1.33, created on 2023-07-05 16:12:16
   from 'core:commonheader.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_6499f631003be8_85179989',
+  'unifunc' => 'content_64a59660c43d14_81835944',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '652202841b9a358b5663534995b87eb1fcc7545d' => 
     array (
       0 => 'core:commonheader.tpl',
-      1 => 1575681981,
+      1 => 1688488389,
       2 => 'core',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'core:controllers/notification/notificationOptions.tpl' => 1,
   ),
 ),false)) {
-function content_6499f631003be8_85179989 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64a59660c43d14_81835944 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/var/www/utc-ojs/lib/pkp/lib/vendor/smarty/smarty/libs/plugins/modifier.replace.php','function'=>'smarty_modifier_replace',),));
 ?>
 <!DOCTYPE html>

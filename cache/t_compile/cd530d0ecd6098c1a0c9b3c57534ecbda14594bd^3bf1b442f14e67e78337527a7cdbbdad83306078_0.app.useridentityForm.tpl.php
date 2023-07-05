@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-06-26 20:33:53
+/* Smarty version 3.1.33, created on 2023-07-05 16:12:17
   from 'app:useridentityForm.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_6499f631333272_88596928',
+  'unifunc' => 'content_64a596610bd420_61146119',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '3bf1b442f14e67e78337527a7cdbbdad83306078' => 
     array (
       0 => 'app:useridentityForm.tpl',
-      1 => 1575681981,
+      1 => 1688488389,
       2 => 'app',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'app:controllers/notification/inPlaceNotification.tpl' => 1,
   ),
 ),false)) {
-function content_6499f631333272_88596928 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64a596610bd420_61146119 (Smarty_Internal_Template $_smarty_tpl) {
 echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['help'][0], array( array('file'=>"user-profile.md",'class'=>"pkp_help_tab"),$_smarty_tpl ) );?>
 
 

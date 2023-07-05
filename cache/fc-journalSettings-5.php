@@ -5,10 +5,13 @@
   'authorSelectsEditor' => false,
   'boardEnabled' => true,
   'categories' => NULL,
-  'contactEmail' => 'renato.perez@utc.edu.ec',
+  'contactEmail' => 'ibett.jacome@utc.edu.ec',
   'contactFax' => '',
-  'contactName' => 'Renato Pérez López',
-  'contactPhone' => '',
+  'contactName' => 'Ibett Jácome Lara',
+  'contactPhone' => '0960625642',
+  'contributors' => 
+  array (
+  ),
   'copyrightHolderType' => '',
   'copyrightNoticeAgree' => false,
   'copyrightYearBasis' => '',
@@ -27,7 +30,11 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/prospectivasutc',
   'enableAnnouncementsHomepage' => true,
   'enableComments' => '1',
   'enableLockss' => false,
-  'enableOai' => true,
+  'enablePageNumber' => true,
+  'enablePublicArticleId' => false,
+  'enablePublicGalleyId' => false,
+  'enablePublicIssueId' => false,
+  'enablePublicSuppFileId' => false,
   'envelopeSender' => '',
   'fastTrackFee' => 0,
   'includeCopyrightStatement' => true,
@@ -39,9 +46,10 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/prospectivasutc',
   'itemsPerPage' => 25,
   'journalTheme' => 'classicRed',
   'licenseURL' => 'http://creativecommons.org/licenses/by/4.0',
-  'mailingAddress' => 'Facultad de Ciencias Administrativas de la Universidad Técnica de Cotopaxi',
+  'mailingAddress' => '<p>Universidad Técnica de Cotopaxi, Facultad de Administrativas, cantón Latacunga, El Ejido, sector San Felipe. País: Ecuador. Provincia: Cotopaxi. Cantón: Latacunga.</p><p>Email revista: prospectivas@utc.edu.ec</p>',
   'mailSubmissionsToReviewers' => true,
   'membershipFee' => 0,
+  'metaCitationOutputFilterId' => 20,
   'metaCitations' => true,
   'metaCoverage' => false,
   'metaDiscipline' => true,
@@ -113,6 +121,9 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/prospectivasutc',
   'rtViewReviewPolicy' => true,
   'showEnsuringLink' => false,
   'showGalleyLinks' => false,
+  'sponsors' => 
+  array (
+  ),
   'submissionFee' => 0,
   'supportedFormLocales' => 
   array (
@@ -126,8 +137,8 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/prospectivasutc',
   array (
     0 => 'es_ES',
   ),
-  'supportEmail' => 'renato.perez@utc.edu.ec',
-  'supportName' => 'Renato Pérez López',
+  'supportEmail' => 'gustavo.rodriguez@utc.edu.ec',
+  'supportName' => 'Gustavo Rodríguez',
   'supportPhone' => '',
   'themePluginPath' => 'default',
   'useCopyeditors' => false,
@@ -191,13 +202,9 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/prospectivasutc',
   array (
     'es_ES' => 'Universidad Técnica de Cotopaxi',
   ),
-  'contactMailingAddress' => 
-  array (
-    'es_ES' => 'Facultad de Administrativas, cantón Latacunga, El Ejido, sector San Felipe. País: Ecuador. Provincia: Cotopaxi. Cantón: Latacunga.',
-  ),
   'contactTitle' => 
   array (
-    'es_ES' => 'MSc.',
+    'es_ES' => 'PhD.',
   ),
   'copyeditInstructions' => 
   array (
@@ -206,6 +213,32 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/prospectivasutc',
   'copyrightNotice' => 
   array (
     'es_ES' => '<p>Los autores tienen derechos exclusivos sobre el trabajo publicado.<br /><br />La revista tiene acceso libre. Los artículos pueden leerse, descargarse, copiarse, distribuirse, imprimirse y hacer referencia al texto completo con atribución, sin ninguna restricción, de acuerdo con la licencia Commons the Attribution 4.0 the Creative International (CC BY 4.0).</p><p><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://creativecommons.org/licenses/by/4.0/&amp;source=gmail&amp;ust=1549552096654000&amp;usg=AFQjCNHEZLWOPlEEN8ZOCjyoSZ6I4-cs2A">https://creativecommons.org/licenses/by/4.0/</a></p><ul class="license-properties"><li class="license share"><strong>Compartir</strong> — copiar y redistribuir el material en cualquier medio o formato.</li><li class="license commercial"><strong>Adapt</strong> — remezclar, transformar y construir sobre el material para cualquier propósito, incluso en el comercio.</li></ul><div> </div><ul class="license-properties"><li class="license share"><strong>Share</strong> — copy and redistribute the material in any medium or format</li><li class="license commercial"><strong>Adapt</strong> — remix, transform, and build upon the material for any purpose, even commercially.</li></ul>',
+  ),
+  'customAboutItems' => 
+  array (
+    'es_ES' => 
+    array (
+      0 => 
+      array (
+        'title' => 'Pagos por recepción o publicación de artículos',
+        'content' => 'La Revista Prospectivas UTC no cuenta con cargos o tasas por la publicación de artículos enviados por los autores, ni cargos por la recepción de artículos.',
+      ),
+      1 => 
+      array (
+        'title' => 'Definición de autor y contribuidor',
+        'content' => '<p>Para ser considerado autor  es necesario cumplir los siguientes criterios: </p><p>1.- Que exista una contribución sustancial a la concepción o diseño del artículo o a la adquisición, análisis o interpretación de los datos.</p><p>2.- Que se haya participado en el diseño del trabajo de investigación o en la revisión crítica de su contenido intelectual.</p><p>3.- Que se haya intervenido en la aprobación de la versión final que vaya a ser publicada.</p><p>4. Que se tenga capacidad de responder de todos los aspectos del artículo de cara a asegurar que las cuestiones relacionadas con la exactitud o integridad de cualquier parte del trabajo están adecuadamente investigadas y resueltas.</p><p>Las personas que apoyaron en la investigación pero no cumplen con los criterios de autor seran considerados en la sección  de agradecimientos del artículo.</p>',
+      ),
+      2 => 
+      array (
+        'title' => 'Detección de plagio',
+        'content' => 'La detección de plagio en los documentos será el primer paso de revisión por parte del comité editorial. Para esto se utilizará la herramienta digital Urkund. Cualquier documento que incurra en plagio será automáticamente descartado y devuelto al remitente.',
+      ),
+      3 => 
+      array (
+        'title' => 'Código de ética',
+        'content' => '<p class="show">Prospectivas UTC se sustenta en el  código de ética para publicaciones desarrollada por el Comité de Ética de Publicaciones (<a title="COPE" href="https://publicationethics.org/core-practices" target="_blank">COPE – Committee on Publications Ethics</a>).</p><p><strong>Responsabilidades de los Editores</strong></p><p><strong>a) Decisiones de publicación</strong></p><p>El Editor de la revista es el responsable de decidir si publicar o no los artículos. El Editor se ampara en el Comité Científico de la revista y está sujeto a los requisitos de las leyes aplicables con respecto a la difamación, la infracción de derechos de autor y el plagio. El Editor de la revista puede comunicarse con otros editores o revisores para tomar sus propias decisiones.</p><p><strong>b) Equidad</strong></p><p>El Editor de la revista evalúa los artículos propuestos para su publicación en función de su contenido sin discriminación por motivos de raza, género, orientación sexual, religión, origen étnico, ciudadanía u orientación política de los autores.</p><p><strong>c) Confidencialidad</strong></p><p>El Editor y cualquier miembro del Equipo Editorial de la revista no pueden divulgar ninguna información sobre un manuscrito enviado para la evaluación de la revista a ninguna persona excepto al autor de correspondencia, revisores, revisores potenciales, consultor editorial y editores de sección según corresponda.<strong> </strong></p><p><strong>d) Conflictos de interés y divulgación</strong></p><p>Los materiales no publicados contenidos en un manuscrito enviado no deben utilizarse en a investigación del Editor o un miembro del Equipo Editorial de la revista sin el consentimiento expreso por escrito del autor.</p><p><strong>Responsabilidades de los Revisores</strong></p><p><strong>a) Aporte a la decisión editorial</strong></p><p>El proceso de revisión por pares ayuda al Editor de la revista a tomar decisiones editoriales y a través de la comunicación editorial con el autor también ayuda a mejorar la calidad y el texto de un manuscrito sometido a la revista. Los revisores se comprometen en realizar una revisión crítica, constructiva y honesta de la calidad científica de un manuscrito.</p><p><strong>b) Respeto a los plazos de revisión</strong></p><p>El revisor que no se sienta adecuado para realizar la tarea propuesta o que crea que no puede realizar la revisión en el tiempo requerido por la revista deberá informar al Editor de forma inmediata.</p><p><strong>c) Confidencialidad</strong></p><p>Cualquier texto asignado para su lectura será considerado confidencial. Por lo que dichos textos no deben discutirse con otras personas sin el permiso expreso del Editor.</p><p><strong>d) Objetividad</strong></p><p>La revisión por pares debe realizarse objetivamente. Cualquier juicio personal sobre el autor es inapropiado. Se requiere que los revisores justifiquen adecuadamente los juicios y comentarios realizados de un manuscrito.</p><p><strong>e) Reconocimiento a fuentes de información</strong></p><p>Los revisores se comprometen a indicar con precisión las referencias bibliográficas de trabajos fundamentales que el autor podría pasar por alto. Estas recomendaciones deben hacerse de manera transparente sin querer aumentar las citas a trabajos realizados por los mismos revisores. El revisor también debe informar al Editor de cualquier similitud o superposición del texto recibido para su revisión con otras obras que conozca.</p><p><strong>f) Conflictos de interés y divulgación</strong></p><p>La información confidencial o las indicaciones obtenidas durante el proceso de revisión por pares deben considerarse confidenciales y no pueden utilizarse para fines personales. Se requiere que los revisores no acepten revisar artículos para los que exista un conflicto de intereses debido a relaciones de colaboración o competencia con el autor y/o su institución de origen.</p><p><strong>Responsabilidades de los Autores</strong></p><p><strong>a) Acceso y retención de datos</strong></p><p>Si el Editor lo considera apropiado, los autores de los artículos también deberán hacer disponibles las fuentes o los datos en los que se basa la investigación desarrollada, para que puedan mantenerse durante un periodo de tiempo razonable después de la publicación y posiblemente hacerlos visibles.</p><p><strong>b) Originalidad y plagio</strong></p><p>Los autores deben garantizar que han escrito trabajos completamente originales y si los autores han utilizado el trabajo y/o las palabras de otros deberán indicarlo o citarlo correctamente en el manuscrito.</p><p><strong>c) Publicaciones múltiples, repetitivas y/o concurrentes</strong></p><p>El autor no debe publicar artículos que describan la misma investigación en más de una revista. Proponer el mismo texto a más de una revista al mismo tiempo es éticamente incorrecto e inaceptable.</p><p><strong>d) Especificaciones de fuentes</strong></p><p>El autor siempre debe proporcionar la indicación correcta de las fuentes y contribuciones mencionadas en el artículo. Un artículo debe contener suficientes detalles y referencias para permitir una respuesta.</p><p><strong>e) Autoría de la obra</strong></p><p>La autoría del trabajo debe ser correctamente atribuida y todos aquellos que han realizado una contribución significativa a la concepción, organización, implementación y reelaboración de la investigación que es la base del artículo deben indicarse como coautores. Si otras personas han participado significativamente en ciertas fases de la investigación, su contribución debe ser reconocida explícitamente. En caso de contribuciones de múltiples, el autor que envía el texto a la revista debe declarar que ha indicado correctamente los nombres de todos los demás coautores, que ha obtenido la aprobación de la versión final del artículo y su consentimiento para su publicación en la revista.</p><p><strong>f) Conflicto de intereses y divulgación</strong></p><p>Todos los autores deben indicar en su manuscrito cualquier conflicto financiero u otro conflicto de interés que pueda interpretarse de manera tal que influya en los resultados o la interpretación de su trabajo. Todas las fuentes de apoyo financiero para el proyecto deben ser divulgadas correctamente.</p><p><strong>g) Errores en artículos publicados</strong></p><p>Cuando un autor descubra un error significativo o una imprecisión en su trabajo publicado, debe notificar de inmediato al Editor de la revista para retirar o corregir el texto.</p><p> </p>',
+      ),
+    ),
   ),
   'description' => 
   array (
@@ -221,7 +254,7 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/prospectivasutc',
   ),
   'editorialTeam' => 
   array (
-    'es_ES' => '<div id="group"><h4>RECTOR UTC</h4><p>Cristian F. Tinajero, Universidad Técnica de Cotopaxi, Ecuador</p><h4>VICERRECTORA ACADÉMICA</h4><p>Idalia Pacheco, Universidad Técnica de Cotopaxi, Ecuador</p><h4>EDITOR EN JEFE</h4><p>Renato Pérez López, Universidad Técnica de Cotopaxi, Ecuador</p><h4>EDITOR ADJUNTO</h4><p>Patricia Hernandez Medina, Universidad Técnica de Cotopaxi, Ecuador</p><h4>SECRETARIO CIENTÍFICO</h4><p>Edwin Vásquez, Universidad Técnica de Cotopaxi, Ecuador</p><h4>MIEMBROS DEL COMITÉ EDITORIAL</h4><p>Luís Morales La Paz, Universidad Católica Andrés Bello, Venezuela, Bolivarian Republic of</p><p>Héctor Darío Betancurt, Universidad de Manizales, Ecuador</p><p>María Gabriela Ponce, Universidad Católica Andrés Bello, Venezuela, Bolivarian Republic of</p><p>María Alejandra Villasmil, Universidad de los Andes, Ecuador</p><p>Jesús González Alfonso, Universidad de Otavalo, Ecuador</p><p>Cordelia Khouri, Universidad ESAN Perú, Peru</p><p>Alexandra De Trak, Universidad Católica Andrés Bello, Venezuela, Bolivarian Republic of</p><p>Carlos Riera, Universidad Católica Andrés Bello, Venezuela, Bolivarian Republic of</p><p>Luis Felipe Sánchez, Corporación Andina de Fomento (CAF), Venezuela, Bolivarian Republic of</p><p>Juan Morales, Universidad Sergio Arboleda, Colombia</p><p>Daniel Lahoud, Universidad Central de Venezuela, Venezuela, Bolivarian Republic of</p></div>',
+    'es_ES' => '<div id="group"><h4>RECTOR UTC</h4><p>Cristian F. Tinajero, Universidad Técnica de Cotopaxi, Ecuador</p><h4>VICERRECTORA ACADÉMICA</h4><p>Idalia Pacheco, Universidad Técnica de Cotopaxi, Ecuador</p><h4>EDITOR EN JEFE</h4><p>Ibett Mariela Jacome, Universidad Técnica de Cotopaxi, Ecuador</p><h4>EDITOR ASOCIADO</h4><p>Alisva Cárdenas-Pérez, Universidad de las Fuerzas Armadas ESPE</p><h4>SECRETARIO CIENTÍFICO</h4><p>Edwin Vásquez, Universidad Técnica de Cotopaxi, Ecuador</p><h4>MIEMBROS DEL COMITÉ EDITORIAL</h4><p>Luís Morales La Paz, Universidad Católica Andrés Bello, Venezuela, Bolivarian Republic of</p><p>Juan Morales, Universidad Sergio Arboleda, Colombia</p><p>Luis Felipe Sánchez, Corporación Andina de Fomento (CAF), Venezuela, Bolivarian Republic of</p><p>Carlos Riera, Universidad Católica Andrés Bello, Venezuela, Bolivarian Republic of</p><p>Alexandra De Trak, Universidad Católica Andrés Bello, Venezuela, Bolivarian Republic of</p><p>Cordelia Khouri, Universidad ESAN Perú, Peru</p><p>Jesús González Alfonso, Universidad de Otavalo, Ecuador</p><p>María Alejandra Villasmil, Universidad de los Andes, Ecuador</p><p>María Gabriela Ponce, Universidad Católica Andrés Bello, Venezuela, Bolivarian Republic of</p><p>Héctor Darío Betancurt, Universidad de Manizales, Ecuador</p><p>Daniel Lahoud, Universidad Central de Venezuela, Venezuela, Bolivarian Republic of</p></div>',
   ),
   'fastTrackFeeDescription' => 
   array (
@@ -230,6 +263,10 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/prospectivasutc',
   'fastTrackFeeName' => 
   array (
     'es_ES' => 'Revisión rápida',
+  ),
+  'focusScopeDesc' => 
+  array (
+    'es_ES' => '<p><em>Prospectivas UTC. Revista de Ciencias Administrativas y Economía.</em> Es una publicación bianual, editada por la Universidad Técnica de Cotopaxi dirigida a investigadores nacionales e internacionales, que recibe artículos a través de las convocatorias establecidas por el Comité Editorial. La finalidad es incentivar el debate en torno a propuestas relacionadas con temas dentro de las Ciencias Administrativas y Económicas como: emprendimiento; finanzas; economía; administración; contaduría; entre otros, en los que debe predominar el carácter científico. Los artículos que se ajusten y cumplan con la normativa de la revista serán considerados como recibidos.</p><p>La distribución de la Revista es en formato electrónico y con acceso gratuito a texto completo.</p><p> </p>',
   ),
   'homeHeaderTitleImage' => 
   array (
@@ -300,6 +337,10 @@ window.dataLayer = window.dataLayer || [];
       ),
     ),
   ),
+  'openAccessPolicy' => 
+  array (
+    'es_ES' => '<p>Esta revista proporciona un acceso abierto a su contenido basado en el principio de que al ofrecer al público un acceso libre a las investigaciones ayuda a un mayor intercambio global del conocimiento. Licencia creative commons.</p><p><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://creativecommons.org/licenses/by/4.0/&amp;source=gmail&amp;ust=1549552096654000&amp;usg=AFQjCNHEZLWOPlEEN8ZOCjyoSZ6I4-cs2A">https://creativecommons.org/licenses/by/4.0/</a></p><ul class="license-properties"><li class="license share"><strong>Compartir</strong> — copiar y redistribuir el material en cualquier medio o formato.</li><li class="license commercial"><strong>Adapt</strong> — remezclar, transformar y construir sobre el material para cualquier propósito, incluso en el comercio.</li></ul><div> </div><ul class="license-properties"><li class="license share"><strong>Share</strong> — copy and redistribute the material in any medium or format</li><li class="license commercial"><strong>Adapt</strong> — remix, transform, and build upon the material for any purpose, even commercially.</li></ul><div id=":m1" class="ajR" data-tooltip="Mostrar contenido reducido"><img class="ajT" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif" alt="" /></div><div class="ajR" data-tooltip="Mostrar contenido reducido"> </div>',
+  ),
   'privacyStatement' => 
   array (
     'es_ES' => 'Los nombres y las direcciones de correo electrónico introducidos en esta revista se usarán exclusivamente para los fines establecidos en ella y no se proporcionarán a terceros o para su uso con otros fines.',
@@ -307,6 +348,10 @@ window.dataLayer = window.dataLayer || [];
   'proofInstructions' => 
   array (
     'es_ES' => '<p>La fase de corrección de pruebas tiene el propósito de detectar errores ortográficos en la galerada, así como gramaticales y de formato. En esta fase no se realizan más cambios importantes, a menos que se haya acordado con el editor/a de sección. En Maquetación, haga clic en VER PRUEBA para ver los HTML, PDF y otros formatos de archivo disponibles utilizados en la edición de este elemento.</p><h4>Para errores ortográficos y gramaticales</h4><p>Copie la palabra o grupo de palabras problemáticas y péguelas en el cuadro de correciones de pruebas con instrucciones al editor/a "CAMBIAR-POR" como sigue:</p><pre>1. CAMBIAR... entonces los otras POR... entonces los otros</pre><br /><pre>2. CAMBIAR... Malinowsky POR... Malinowski</pre><br /><h4>Para errores de formato</h4><p>Describa la ubicación y naturaleza del problema en el cuadro de correcciones de pruebas después de escribir en el título "FORMATO" como sigue:</p><br /><pre>3. FORMATO Los números de la Tabla 3 no están alineados en la tercera columna.</pre><br /><pre>4. FORMATO El párrafo que comienza con "Este último tema..." no está sangrado.</pre>',
+  ),
+  'pubFreqPolicy' => 
+  array (
+    'es_ES' => '<em>Prospectivas UTC. Revista de Ciencias Administrativas y Economía.</em> Es una publicación bianual, editada por la Universidad Técnica de Cotopaxi, que recibe artículos a través de las convocatorias establecidas por el Comité Editorial. Las propuestas de publicación deben relacionarse con el área de las Ciencias Administrativas y Economía en las que debe predominar el carácter científico. Los artículos que se ajusten y cumplan con la normativa de la revista serán considerados como recibidos. La revista Prospectivas UTC cuenta con árbitros nacionales e internacionales que realizarán la evaluación de las propuestas bajo la modalidad del doble ciego.',
   ),
   'publicationFeeDescription' => 
   array (
@@ -339,6 +384,10 @@ window.dataLayer = window.dataLayer || [];
   'reviewGuidelines' => 
   array (
     'es_ES' => '<p>La evaluación de los ítems se realiza en base a cuatro categorías (excelente, bueno, regular y deficiente) y comprende las siguientes áreas:</p><p> </p><div align="center"><table border="1" cellspacing="0" cellpadding="0"><tbody><tr><td width="206"><p align="center"><strong>Ítem a ser evaluado</strong></p></td><td width="372"><p align="center"><strong>Criterio para la evaluación</strong></p></td></tr><tr><td width="206"><p>Tema del artículo</p></td><td width="372"><p>Refiere a la pertinencia del tema tratado en el artículo tanto para la coyuntura actual como para el nivel de avance de las ciencias sociales o de la disciplina en cuestión.</p></td></tr><tr><td width="206"><p>Hipótesis (si aplica)</p></td><td width="372"><p>Coherencia de la(s) hipótesis planteada(s) con respecto a la temática tratada y al análisis de resultados</p></td></tr><tr><td width="206"><p>Marco teórico</p></td><td width="372"><p>Uso de marcos teóricos adecuados para el tema y problema propuesto</p></td></tr><tr><td width="206"><p>Aspectos metodológicos (los que aplican)</p></td><td width="372"><p>Aplicación ajustada de los criterios y parámetros correspondientes a la metodología de las ciencias sociales. Refiere a temas como la muestra, diseño y aplicación del instrumento, uso de diseños metodológicos especiales, etc.</p></td></tr><tr><td width="206"><p>Análisis de datos</p></td><td width="372"><p>Uso apropiado de las herramientas estadísticas para la exploración y análisis de los datos obtenidos y consistencia de su presentación</p></td></tr><tr><td width="206"><p>Conclusiones y recomendaciones</p></td><td width="372"><p>Presentación de conclusiones congruentes y pertinente con la temática planteada</p></td></tr><tr><td width="206"><p>Aspectos formales (bibliografía, título del trabajo, palabras clave, redacción, citas…)</p></td><td width="372"><p>Evaluación de los aspectos formales del trabajo y su presentación correcta.</p></td></tr></tbody></table></div><p> </p><p>La flexibilidad de estos parámetros es relativa a la naturaleza del artículo. No obstante, queda a criterio del árbitro la evaluación de cada uno de estos parámetros. Existe la posibilidad de que el árbitro pueda agregar parámetros adicionales por considerarlos pertinentes. Por ello, y también para dejar espacio para otras observaciones, se incluye un espacio para la inclusión de comentarios y observaciones.</p><p>El veredicto comprende tres opciones. <strong>Aprobado</strong> para aquellos artículos que carecen de observaciones o tienen observaciones mínimas y que pueden ser publicados tal como se presentan; <strong>Aprobado condicionado</strong> para aquellos artículos que requieren ajustes importantes para ser publicados; en tal caso, el artículo es regresado al autor para considerar dichas observaciones; y <strong>Rechazado</strong> para aquellos artículos que no deben ser publicados.</p><p>El Comité Editorial de la revista se reserva el derecho definitivo de aceptar, condicionar o rechazar un artículo, considerando siempre la evaluación de los árbitros.</p><p> </p>',
+  ),
+  'reviewPolicy' => 
+  array (
+    'es_ES' => '<p>Todos los artículos enviados para su posible publicación en la Revista serán sometidos a la revisión de la comisión de arbitraje que forma parte de la revista.</p><p>En primera instancia, el comité editorial hará una revisión de los documentos utilizando la herramienta electrónica Urkund con la finalidad de detectar si existe plagio en los archivos recibidos. Una vez aprobada esta etapa se prosigue con la verificación del formato exigido en las normas para los autores. Posteriormente el documento es enviado al grupo de árbitros, nacionales o internacionales, para la evaluación de las propuestas bajo la modalidad de doble ciego. Los árbitros deberán evaluar los artículos de forma objetiva, crítica así mismo deberán demostrar imparcialidad para poder garantizar la originalidad, innovación y el carácter científico de los artículos.</p><p>El dictamen de los árbitros evaluadores puede ser el siguiente:</p><p>Artículo publicable</p><p>Publicable con modificaciones menores</p><p>Publicable con modificaciones moderadas</p><p>No publicable</p><p>La decisión final la toma el Comité Editorial y es inapelable.</p><p> </p>',
   ),
   'submissionChecklist' => 
   array (

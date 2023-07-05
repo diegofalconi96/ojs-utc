@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-06-13 18:51:48
+/* Smarty version 3.1.33, created on 2023-07-05 16:11:42
   from 'app:headerusernav.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_6488bac41b4511_66958146',
+  'unifunc' => 'content_64a5963e5ec7a7_20920602',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '28682bb3d6b6e750ebd3d458abc8f92b4da9ea9f' => 
     array (
       0 => 'app:headerusernav.tpl',
-      1 => 1575681981,
+      1 => 1688488389,
       2 => 'app',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6488bac41b4511_66958146 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64a5963e5ec7a7_20920602 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_capture->open($_smarty_tpl, 'default', "homeUrl", null);?>
 	<?php if ($_smarty_tpl->tpl_vars['currentContext']->value) {?>
 		<?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['url'][0], array( array('page'=>"index",'router'=>@constant('ROUTE_PAGE')),$_smarty_tpl ) );?>

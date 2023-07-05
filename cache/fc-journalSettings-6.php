@@ -9,6 +9,9 @@
   'contactFax' => '',
   'contactName' => 'Juan Mato Tamayo',
   'contactPhone' => '0984144999',
+  'contributors' => 
+  array (
+  ),
   'copyrightHolderType' => '',
   'copyrightNoticeAgree' => false,
   'copyrightYearBasis' => '',
@@ -26,7 +29,11 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/invpos',
   'enableAnnouncements' => false,
   'enableAnnouncementsHomepage' => false,
   'enableLockss' => false,
-  'enableOai' => true,
+  'enablePageNumber' => true,
+  'enablePublicArticleId' => false,
+  'enablePublicGalleyId' => false,
+  'enablePublicIssueId' => false,
+  'enablePublicSuppFileId' => false,
   'envelopeSender' => '',
   'fastTrackFee' => 0,
   'includeCopyrightStatement' => false,
@@ -41,6 +48,7 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/invpos',
   'mailingAddress' => '<p><span>Dirección de Posgrado de la Universidad Técnica de Cotopaxi (UTC), cantón Latacunga, El Ejido, sector San Felipe. País: Ecuador. Provincia: Cotopaxi. Cantón: Latacunga. Teléfonos: 593 (03) 2252-307 / 2252-205 Extensión: 209. Fax: 593 (03) 2810-295. Email: revista.inpos@utc.edu.ec . Apartado postal: 05-01491</span></p>',
   'mailSubmissionsToReviewers' => false,
   'membershipFee' => 0,
+  'metaCitationOutputFilterId' => -1,
   'metaCitations' => true,
   'metaCoverage' => false,
   'metaDiscipline' => true,
@@ -93,6 +101,9 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/invpos',
   'rtViewMetadata' => true,
   'showEnsuringLink' => false,
   'showGalleyLinks' => false,
+  'sponsors' => 
+  array (
+  ),
   'submissionFee' => 0,
   'supportedFormLocales' => 
   array (
@@ -171,6 +182,17 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/invpos',
   array (
     'es_ES' => '<p>Los autores que publican en esta revista están de acuerdo con los siguientes términos:</p><ul><li>Licencia Creative Commons Atribución-NoComercial-SinDerivadas que permite a otros compartir el trabajo con un reconocimiento de la autoría del trabajo y la publicación inicial en esta revista.</li><li>Los autores pueden establecer por separado acuerdos adicionales para la distribución no exclusiva de la versión de la obra publicada en la revista (por ejemplo, situarlo en un repositorio institucional o publicarlo en un libro), con un reconocimiento de su publicación inicial en esta revista.</li></ul>Se permite y se anima a los autores a difundir sus trabajos electrónicamente (por ejemplo, en repositorios institucionales o en su propio sitio web) antes y durante el proceso de envío, ya que puede dar lugar a intercambios productivos, así como a una citación más temprana y mayor de los trabajos publicados (Véase <a href="http://opcit.eprints.org/oacitation-biblio.html">The Effect of Open Access</a>) (en inglés).',
   ),
+  'customAboutItems' => 
+  array (
+    'es_ES' => 
+    array (
+      0 => 
+      array (
+        'title' => '',
+        'content' => '',
+      ),
+    ),
+  ),
   'description' => 
   array (
     'es_ES' => '<span>La Revista INVPOS es una publicación periódica científica multidisciplinaria a texto completo, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia bianual, editada por la Dirección de Posgrado de la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la investigación y el conocimiento a través de la publicación de artículos originales de alta calidad relacionados con las actividades en las áreas de Desarrollo Local, Educación, Administración de Empresas, Sistemas de Información, Veterinaria, Sanidad Vegetal, Lingüística, Eléctrica, Electromecánica, Industrial y otras.</span>',
@@ -194,6 +216,10 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/invpos',
   'fastTrackFeeName' => 
   array (
     'es_ES' => 'Revisión rápida',
+  ),
+  'focusScopeDesc' => 
+  array (
+    'es_ES' => '<p>La Revista INVPOS es una publicación periódica científica a texto completo bianual, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, editada por la Dirección de Posgrado de la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la investigación y el conocimiento a través de la publicación de artículos originales de alta calidad relacionados con las actividades en las áreas de Desarrollo Local, Educación, Administración de Empresas, Sistemas de Información, Veterinaria, Sanidad Vegetal, Lingüística, Eléctrica, Electromecánica, Industrial y otras.</p><p>Las publicaciones están dirigidas a los profesionales que sus necesidades investigativas y académicas se encuentran enmarcadas en las áreas de Desarrollo Local, Educación, Administración de Empresas, Sistemas de Información, Veterinaria, Sanidad Vegetal, Lingüística, Eléctrica, Electromecánica, Industrial y otras.</p>',
   ),
   'homeHeaderTitle' => 
   array (
@@ -250,6 +276,10 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/invpos',
       ),
     ),
   ),
+  'openAccessPolicy' => 
+  array (
+    'es_ES' => 'Esta revista proporciona un acceso abierto inmediato a su contenido, basado en el principio de que ofrecer al público un acceso libre a las investigaciones ayuda a un mayor intercambio global de conocimiento.',
+  ),
   'pageHeaderTitle' => 
   array (
     'es_ES' => 'Revista INVPOS',
@@ -289,6 +319,10 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/invpos',
   'refLinkInstructions' => 
   array (
     'es_ES' => '<h4>Añadir enlaces de referencia en el proceso de maquetación</h4><p>Al convertir un envío a HTML o PDF, asegúrese de que todos los hipervínculos del envío están activos.</p><h4>A. Si el autor/a proporciona un enlace con la referencia</h4><ol><li>Mientras el envío se encuentre todavía en formato de procesador de textos (p. ej., Word), añada la frase VER ELEMENTO al final de la referencia con la dirección URL.</li><li>Convierta esa frase en un hipervínculo seleccionándola y utilizando la herramienta de Word Insertar hipervínculo y la dirección URL previa.</li></ol><h4>B. Permitir a los lectores/as buscar referencias en Google Académico</h4><ol><li>Mientras el envío se encuentre todavía en formato de procesador de textos (p. ej., Word), copie el título del trabajo referenciado en la lista de referencias (si el título es muy común —p. ej., "Paz"— copie también el autor).</li><li>Pegue el título de la referencia entre los dos símbolos %22 y coloque un símbolo + entre cada palabra: http://scholar.google.com/sc?q=%22PEGAR+TÍTULO+AQUÍ%22</li><li>Añada la frase BÚSQUEDA GOOGLE ACADÉMICO al final de cada cita en la lista de referencias del envío.</li><li>Convierta esa frase en un hipervínculo seleccionándola y utilizando la herramienta de Word Insertar hipervínculo y la dirección URL preparada en el apartado nº 2.</li></ol><h4>C. Permitir a los lectores/as buscar referencias con un DOI</h4><ol><li>Mientras el envío se encuentre todavía en Word, copie un lote de referencias en el texto de consulta CrossRef http://www.crossref.org/freeTextQuery/.</li><li>Pegue cada DOI que le proporcione la consulta en la siguiente dirección URL (entre = y &amp;): http://www.cmaj.ca/cgi/external_ref?access_num=PEGAR DOI#AQUÍ&amp;link_type=DOI.</li><li>Añada la frase CrossRef al final de cada cita en la lista de referencias del envío.</li><li>Convierta esa frase en un hipervínculo seleccionándola y utilizando la herramienta de Word Insertar hipervínculo y la dirección URL preparada en el apartado nº 2.</li></ol>',
+  ),
+  'reviewPolicy' => 
+  array (
+    'es_ES' => '<span>El arbitraje consiste en la revisión por pares, a cargo de doctores o máster en ciencias de nuestra institución y otras instituciones nacionales y extranjeras, los que tienen la potestad de rechazar o aceptar el trabajo, realizando todas las revisiones necesarias, hasta estar de acuerdo con los arreglos realizados por los autores, teniendo en cuenta las sugerencias realizadas por los revisores en aras de enriquecer y garantizar la calidad de las publicaciones. Los autores y árbitros permanecen en el anonimato. Los árbitros cuentan con un plazo de 30 días hábiles para realizar la primera revisión de cada artículo; 15 días hábiles para la segunda revisión (posterior a los arreglos de los autores) y 10 días hábiles para el resto de las revisiones. Los autores cuentan con un plazo de 10 días hábiles para realizar sus primeras correcciones y 5 días hábiles para el resto de las correcciones.</span>',
   ),
   'searchDescription' => 
   array (

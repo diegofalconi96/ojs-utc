@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-06-26 20:33:53
+/* Smarty version 3.1.33, created on 2023-07-05 16:12:16
   from 'core:controllersnotificationno' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_6499f63102a003_96791157',
+  'unifunc' => 'content_64a59660c63827_38129017',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '05bb841709c5eae18576702a4a24023b89ad8931' => 
     array (
       0 => 'core:controllersnotificationno',
-      1 => 1575681981,
+      1 => 1688488389,
       2 => 'core',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6499f63102a003_96791157 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64a59660c63827_38129017 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['refreshOn']->value) {?>
 	refreshOn: <?php echo json_encode($_smarty_tpl->tpl_vars['refreshOn']->value);?>
 ,

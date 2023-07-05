@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-06-13 20:07:01
+/* Smarty version 3.1.33, created on 2023-07-05 16:13:37
   from 'app:linkActionlinkActionButto' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_6488cc653313c7_57454534',
+  'unifunc' => 'content_64a596b18b5619_45262235',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'c0fab54edb4f352fd370b8a0421de7d73183acec' => 
     array (
       0 => 'app:linkActionlinkActionButto',
-      1 => 1575681981,
+      1 => 1688488389,
       2 => 'app',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6488cc653313c7_57454534 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64a596b18b5619_45262235 (Smarty_Internal_Template $_smarty_tpl) {
 ?><a href="#" id="<?php echo call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['buttonId']->value ));?>
 " title="<?php echo call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['action']->value->getHoverTitle() ));?>
 " class="pkp_controllers_linkAction pkp_linkaction_<?php echo $_smarty_tpl->tpl_vars['action']->value->getId();?>

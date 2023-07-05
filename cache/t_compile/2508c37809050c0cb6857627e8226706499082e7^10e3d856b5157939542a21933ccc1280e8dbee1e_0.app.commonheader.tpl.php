@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-06-26 20:33:52
+/* Smarty version 3.1.33, created on 2023-07-05 16:12:16
   from 'app:commonheader.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_6499f630f0e2c9_80500057',
+  'unifunc' => 'content_64a59660c0eb26_55021247',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '10e3d856b5157939542a21933ccc1280e8dbee1e' => 
     array (
       0 => 'app:commonheader.tpl',
-      1 => 1575681927,
+      1 => 1688488390,
       2 => 'app',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'core:common/header.tpl' => 1,
   ),
 ),false)) {
-function content_6499f630f0e2c9_80500057 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64a59660c0eb26_55021247 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_capture->open($_smarty_tpl, 'default', "appSpecificMenuItems", null);?>
 	<?php if (array_intersect(array(ROLE_ID_MANAGER),(array)$_smarty_tpl->tpl_vars['userRoles']->value)) {?>
 		<li aria-haspopup="true" aria-expanded="false">

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2023-06-13 21:07:12
+/* Smarty version 3.1.33, created on 2023-07-05 16:11:42
   from 'app:controllerspagetasks.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_6488da80c8c408_97150393',
+  'unifunc' => 'content_64a5963e6c49f1_07030656',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'ff1cb192ef33fc9e3d92436bc42c54efdb4c274b' => 
     array (
       0 => 'app:controllerspagetasks.tpl',
-      1 => 1575681981,
+      1 => 1688488389,
       2 => 'app',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6488da80c8c408_97150393 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64a5963e6c49f1_07030656 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">
 	// Initialise JS handler.

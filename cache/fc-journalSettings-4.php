@@ -9,6 +9,9 @@
   'contactFax' => '',
   'contactName' => 'Mercy Lucila Ilbay Yupa',
   'contactPhone' => '0987533861',
+  'contributors' => 
+  array (
+  ),
   'copyrightHolderType' => '',
   'copyrightNoticeAgree' => false,
   'copyrightYearBasis' => '',
@@ -26,7 +29,11 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
   'enableAnnouncements' => true,
   'enableAnnouncementsHomepage' => false,
   'enableLockss' => false,
-  'enableOai' => true,
+  'enablePageNumber' => true,
+  'enablePublicArticleId' => false,
+  'enablePublicGalleyId' => false,
+  'enablePublicIssueId' => false,
+  'enablePublicSuppFileId' => false,
   'envelopeSender' => '',
   'fastTrackFee' => 0,
   'includeCopyrightStatement' => false,
@@ -41,6 +48,7 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
   'mailingAddress' => 'Facultad de Ciencias Agropecuarias y Recursos Naturales de la Universidad Técnica de Cotopaxi (UTC), cantón Latacunga, El Ejido, sector San Felipe. País: Ecuador. Provincia: Cotopaxi. Cantón: Latacunga. Teléfonos: 593 (03) 2266164 / 2813-157 Extensión: 139 – 156. Fax: 593 (03) 2810-295. Apartado postal: 05-01491. Email: renpys@utc.edu.ec',
   'mailSubmissionsToReviewers' => true,
   'membershipFee' => 0,
+  'metaCitationOutputFilterId' => -1,
   'metaCitations' => true,
   'metaCoverage' => false,
   'metaDiscipline' => true,
@@ -93,6 +101,9 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
   'rtViewMetadata' => true,
   'showEnsuringLink' => false,
   'showGalleyLinks' => false,
+  'sponsors' => 
+  array (
+  ),
   'submissionFee' => 0,
   'supportedFormLocales' => 
   array (
@@ -135,7 +146,7 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
 							</div>
 							<div id="publicationFrequency">
 							<h3>Frecuencia de publicación</h3>
-							<p><p>La Revista <strong>Recursos Naturales Producción y Sostenibilidad </strong>es una publicación periódica científica a texto completo, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia Semestral, editada por la Facultad de Ciencias Agropecuarias y Recursos Naturales (CAREN) de la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales e inéditos de alta calidad, relacionados con las actividades de investigación en las áreas de Agroindustrias, Agronomía, Agropecuaria, Biotecnología, Medicina Veterinaria, Medio Ambiente y Turismo.</p></p>
+							<p><p>La Revista <strong>Recursos Naturales Producción y Sostenibilidad </strong>es una publicación periódica científica a texto completo, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia Semestral, editada por la Facultad de Ciencias Agropecuarias y Recursos Naturales (CAREN) de la Universidad Técnica de Cotopaxi. Su objetivo científico es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales e inéditos de alta calidad, relacionados con las actividades de investigación en las áreas de Agroindustrias, Agronomía, Agropecuaria, Biotecnología, Medicina Veterinaria, Medio Ambiente y Turismo.</p></p>
 							</div>
 							<div id="openAccessPolicy">
 							<h3>Política de acceso abierto</h3>
@@ -148,11 +159,11 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
   ),
   'authorGuidelines' => 
   array (
-    'es_ES' => '<div><ul><li>La revista Recursos Naturales Producción y Sostenibilidad recibirá para su revisión y posterior publicación artículos correctamente redactados, sin errores gramaticales, ni ortográficos.</li><li>Los artículos enviados para la posible publicación deberán ser originales, inéditos y no estar en proceso de revisión ni aprobación en otra revista.</li><li>Los artículos deberán tener una extensión mínima de 10 páginas y no exceder 20 páginas. El tipo de letra será Times New Roman de doce puntos a espacio y medio en tamaño de papel A4. En un formulario aparte el autor o autores, escribirá su nombre, filiación institucional o laboral, el título del artículo, fecha de envío, y correo electrónico.</li><li>La revista recibe artículos en español e inglés, sin embargo, solo se aceptan tres tipos de trabajos: artículos producto de una investigación científica o tecnológica, notas científicas, artículos de revisión, caso clínico.</li><li>Los primeros se refieren a resultados de investigación originales, que sean relevantes y aporten a la construcción de la ciencia y el conocimiento, organizados en cinco apartados (introducción, metodología (materiales y métodos), resultados y discusión, conclusiones y referencias).</li><li>Los artículos de revisión ofrecen resultados de investigación sobre un tema concreto desde una perspectiva crítica y analítica recurriendo a debates y referencias bibliográficas de carácter científico.</li><li>Dentro de la nota científica se exponen resultados de investigación de estudios cuyos aportes o resultados sean relevantes para ser socializados, estos resultados pueden ser preliminares de investigaciones más amplias y pueden servir para generar nuevo conocimiento o plantear nuevas hipótesis para estudios posteriores.</li><li>El caso clínico expone experiencias prácticas de casos reales, ilustrados con imágenes representativas. </li><li>Todos los artículos sin excepción serán revisados bajo el sistema doble ciego, realizados por pares evaluadores nacionales e internacionales, los cuales se encargarán de realizar observaciones y sugerencias a los autores de los artículos para que se cumpla con la calidad científica requerida; en caso de que los artículos pasen el proceso de revisión por pares, los autores deberán enviar una versión final corregida incluyendo las observaciones. </li></ul></div><p>Para más información ver las <a href="https://drive.google.com/file/d/1Vza1iaqh0f530giReJophbSO6Lpe64FC/view?usp=sharing" target="_blank"><strong>instrucciones para los autores</strong></a></p><p><a href="https://docs.google.com/document/d/1djoAaAp8OZDq55jZR2_2vmIbz8Q2c5Yz/edit?usp=sharing&amp;ouid=102986797517708081435&amp;rtpof=true&amp;sd=true" target="_blank"><strong>Plantilla de Word para Autores 2022</strong></a></p>',
+    'es_ES' => '<div><ul><li>La revista Recursos Naturales Producción y Sostenibilidad recibirá para su revisión y posterior publicación artículos correctamente redactados, sin errores gramaticales, ni ortográficos.</li><li>Los artículos enviados para la posible publicación deberán ser originales, inéditos y no estar en proceso de revisión ni aprobación en otra revista.</li><li>Los artículos deberán tener una extensión mínima de 10 páginas y no exceder 20 páginas. El tipo de letra será Times New Roman de doce puntos a espacio y medio en tamaño de papel A4. En un formulario aparte el autor o autores, escribirá su nombre, filiación institucional o laboral, el título del artículo, fecha de envío, y correo electrónico.</li><li>La revista recibe artículos en español e inglés, sin embargo, solo se aceptan tres tipos de trabajos: artículos producto de una investigación científica o tecnológica, notas científicas, artículos de revisión, caso clínico.</li><li>Los primeros se refieren a resultados de investigación originales, que sean relevantes y aporten a la construcción de la ciencia y el conocimiento, organizados en cinco apartados (introducción, metodología (materiales y métodos), resultados y discusión, conclusiones y referencias).</li><li>Los artículos de revisión ofrecen resultados de investigación sobre un tema concreto desde una perspectiva crítica y analítica recurriendo a debates y referencias bibliográficas de carácter científico.</li><li>Dentro de la nota científica se exponen resultados de investigación de estudios cuyos aportes o resultados sean relevantes para ser socializados, estos resultados pueden ser preliminares de investigaciones más amplias y pueden servir para generar nuevo conocimiento o plantear nuevas hipótesis para estudios posteriores.</li><li>El caso clínico expone experiencias prácticas de casos reales, ilustrados con imágenes representativas. </li><li>Todos los artículos sin excepción serán revisados bajo el sistema doble ciego, realizados por pares evaluadores nacionales e internacionales, los cuales se encargarán de realizar observaciones y sugerencias a los autores de los artículos para que se cumpla con la calidad científica requerida; en caso de que los artículos pasen el proceso de revisión por pares, los autores deberán enviar una versión final corregida incluyendo las observaciones. </li></ul></div><p>Para más información ver las <a href="https://drive.google.com/file/d/1Y_VYQUf08tN8CiMjUAU7_cM79evhaNDj/view?usp=sharing" target="_blank"><strong>instrucciones para los autores</strong></a></p><p><a href="https://drive.google.com/file/d/1P5sz3dRvlug3X-A7-VMeTbJ6Uv9iDbXj/view?usp=sharing" target="_blank"><strong>Plantilla de Word para Autores 2022</strong></a></p>',
   ),
   'authorInformation' => 
   array (
-    'es_ES' => '<p>¿Está interesado en publicar en la revista? Se recomienda revisar la página <a href="/revistasutc/index.php/agrociencia/about"><span>Acerca de la revista</span></a> para consultar las políticas de sección de la revista, así como las <a href="/revistasutc/index.php/agrociencia/about/submissions#authorGuidelines"><span>Directrices del autor/a</span></a>. Los autores/as deben <span>registrarse</span> en la revista antes de publicar o, si ya están registrados, pueden simplemente<a href="/revistasutc/index.php/agrociencia/login"> <span>iniciar sesión</span></a> y comenzar el proceso de cinco pasos.</p>',
+    'es_ES' => '<p>¿Está interesado en publicar en la revista? Se recomienda revisar la página <a href="/revistasutc/index.php/RENPYS/about/index"><span>Acerca de la revista</span></a> para consultar las políticas de sección de la revista, así como las <a href="https://drive.google.com/file/d/1Y_VYQUf08tN8CiMjUAU7_cM79evhaNDj/view?usp=sharing" target="_blank"><span>Directrices del autor/a</span></a>. Los autores/as deben <span>registrarse</span> en la revista antes de publicar o, si ya están registrados, pueden simplemente<a href="/revistasutc/index.php/agrociencia/login"> <span>iniciar sesión</span></a> y comenzar el proceso de cinco pasos.</p>',
   ),
   'authorSelfArchivePolicy' => 
   array (
@@ -178,9 +189,20 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
   array (
     'es_ES' => '<p>Los autores que publican en esta revista están de acuerdo con los siguientes términos:</p><ul><li>Licencia Creative Commons Atribución-NoComercial-SinDerivadas que permite a otros compartir el trabajo con un reconocimiento de la autoría del trabajo y la publicación inicial en esta revista.</li><li>Los autores pueden establecer por separado acuerdos adicionales para la distribución no exclusiva de la versión de la obra publicada en la revista (por ejemplo, situarlo en un repositorio institucional o publicarlo en un libro), con un reconocimiento de su publicación inicial en esta revista.</li><li>Se permite y se anima a los autores a difundir sus trabajos electrónicamente (por ejemplo, en repositorios institucionales o en su propio sitio web) antes y durante el proceso de envío, ya que puede dar lugar a intercambios productivos, así como a una citación más temprana y mayor de los trabajos publicados (<a href="http://opcit.eprints.org/oacitation-biblio.html" target="_blank">Véase The Effect of Open Access</a>) (en inglés).</li></ul>',
   ),
+  'customAboutItems' => 
+  array (
+    'es_ES' => 
+    array (
+      0 => 
+      array (
+        'title' => '',
+        'content' => '',
+      ),
+    ),
+  ),
   'description' => 
   array (
-    'es_ES' => '<p>La Revista RENPYS es una publicación periódica científica y académica a texto completo. Está dirigida a estudiantes, docentes e investigadores nacionales e internacionales que pertenezcan al ámbito de las Ciencias Agropecuarias y Recursos Naturales, tales como Agroindustria, Agronomía, Agropecuaria, Biotecnología, Medio Ambiente, Medicina Veterinaria y Turismo. Sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia semestral, editada por la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales de alta calidad.</p>',
+    'es_ES' => '<p>La Revista RENPYS es una publicación periódica científica y académica a texto completo. Está dirigida a estudiantes, docentes e investigadores nacionales e internacionales que pertenezcan al ámbito de las Ciencias Agropecuarias y Recursos Naturales, tales como Agroindustria, Agronomía, Agropecuaria, Biotecnología, Medio Ambiente, Medicina Veterinaria y Turismo. Sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia semestral, editada por la Universidad Técnica de Cotopaxi. Su objetivo es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales de alta calidad.</p>',
   ),
   'donationFeeDescription' => 
   array (
@@ -192,7 +214,7 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
   ),
   'editorialTeam' => 
   array (
-    'es_ES' => '<div id="group"><h4>AUTORIDADES</h4><p>Cristian Fabricio Tinajero, Universidad Técnica de Cotopaxi, Ecuador</p><p>Idalia Pacheco Tigselema, Universidad Técnica de Cotopaxi, Ecuador</p><p>Karina Paola Marín Quevedo, Universidad Técnica de Cotopaxi, Ecuador</p><p>David Santiago Carrera Molina, Universidad Técnica de Cotopaxi, Ecuador</p><p>Carlos Torres Miño, Universidad Técnica de Cotopaxi, Ecuador</p><h4>DIRECTOR</h4><p>M.Sc Rodolfo Matius Mendoza Poma, Universidad Técnica de Cotopaxi</p><h4>EDITOR JEFE</h4><p>Ph. D. Mercy Lucila Ilbay Yupa, Universidad Técnica de Cotopaxi, Ecuador</p><h4>COMITÉ EDITORIAL INTERNO</h4><p>Marcela Janine Morillo Acosta, Universidad Técnica de Cotopaxi</p><p>Lucia Monserrath Silva Deley, Universidad Técnica de Cotopaxi</p><p>Eliana Boada Cahueñas, Universidad Técnica de Cotopaxi</p><p>Manuel Antonio Abarca Zaquinaula, Universidad Técnica de Cotopaxi</p><p>Franklin Antonio Molina Borja, Universidad Técnica de Cotopaxi, Ecuador</p><h4>COMITÉ EDITORIAL EXTERNO</h4><p>Ana Lucía Chafla Moina, Universidad Estatal Amazónica, Ecuador</p><p>Carlos Leonel Escudero Sánchez, Universidad Nacional de Loja</p><p>Mario García, Instituto Superior Tecnológico Cotopaxi</p><p>Álvaro José Ojeda, Gerente de Departamento de Nutrición TADEC, Ecuador</p><p>Paúl Cisneros, Instituto de Altos Estudios Nacionales, Ecuador</p><p>Cristian Goez Therán, Universidad Libre - Colombia</p><p>Giannina Dalle Meze Zavala, Universidad Autónomo de Sinaloa - México</p><p>Carlos Alberto Agudelo Henao, Universidad del Quindío</p><p>Alina Freire Fierro, Universidad Regional Amazónica</p><p>Ricardo Zubieta, Servicio Nacional Meteorología e Hidrología (SENAMHI), Lima Perú</p><h4>EDITOR TÉCNICO</h4><p>Gustavo Rodríguez Bárcenas, Universidad Técnica de Cotopaxi, Ecuador</p></div>',
+    'es_ES' => '<div id="group"><h4>AUTORIDADES</h4><p>Cristian Fabricio Tinajero, Universidad Técnica de Cotopaxi, Ecuador</p><p>Idalia Pacheco Tigselema, Universidad Técnica de Cotopaxi, Ecuador</p><p>Diana Karina Vinueza Morales, Universidad Técnica de Cotopaxi</p><p>David Santiago Carrera Molina, Universidad Técnica de Cotopaxi, Ecuador</p><p>Carlos Torres Miño, Universidad Técnica de Cotopaxi, Ecuador</p><h4>DIRECTOR</h4><p>M.Sc Rodolfo Matius Mendoza Poma, Universidad Técnica de Cotopaxi</p><h4>EDITOR JEFE</h4><p>Ph. D. Mercy Lucila Ilbay Yupa, Universidad Técnica de Cotopaxi, Ecuador</p><h4>COMITÉ EDITORIAL INTERNO</h4><p>Marcela Janine Morillo Acosta, Universidad Técnica de Cotopaxi</p><p>Lucia Monserrath Silva Deley, Universidad Técnica de Cotopaxi</p><p>Manuel Antonio Abarca Zaquinaula, Universidad Técnica de Cotopaxi</p><p>Cristian Santiago Jiménez Jácome, Universidad Técnica de Cotopaxi</p><h4>COMITÉ EDITORIAL EXTERNO</h4><p>Jorge Mario Chávez Salas, Universidad Nacional Agraria La Molina</p><p>Christian Giovanny Proaño Corrales, Instituto Superior Universitario Cotopaxi</p><p>Charles Jim Cachipuendo Ulcuango, Universidad Politécnica Salesiana</p><p>Miguel Ángel Basante Quinatoa, Agencia de Regulación y Control Fito y Zoosanitario</p><p>Klever Mauricio Quimbiulco Sánchez, Universidad Yachay Tech</p><p>Ana Lucía Chafla Moina, Universidad Estatal Amazónica, Ecuador</p><p>Alina Freire Fierro, Universidad Regional Amazónica</p><p>Carlos Alberto Agudelo Henao, Universidad del Quindío</p><p>Mario García, Escuela Superior Politécnica del Chimborazo</p><p>Giannina Dalle Meze Zavala, Universidad Autónomo de Sinaloa - México</p><p>Cristian Goez Therán, Universidad Libre - Colombia</p><p>Paúl Cisneros, Instituto de Altos Estudios Nacionales, Ecuador</p><p>Álvaro José Ojeda, Gerente de Departamento de Nutrición TADEC, Ecuador</p><p>Carlos Leonel Escudero Sánchez, Universidad Nacional de Loja</p><p>Ricardo Zubieta, Servicio Nacional Meteorología e Hidrología (SENAMHI), Lima Perú</p><h4>EDITOR TÉCNICO</h4><p>Gustavo Rodríguez Bárcenas, Universidad Técnica de Cotopaxi, Ecuador</p></div>',
   ),
   'fastTrackFeeDescription' => 
   array (
@@ -201,6 +223,10 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
   'fastTrackFeeName' => 
   array (
     'es_ES' => 'Revisión rápida',
+  ),
+  'focusScopeDesc' => 
+  array (
+    'es_ES' => 'La Revista <strong>Recursos Naturales Producción y Sostenibilidad</strong><strong> </strong>es una publicación periódica científica a texto completo semestral, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia semestral, editada por la Facultad de Ciencias Agropecuarias y Recursos Naturales de la Universidad Técnica de Cotopaxi. Su misión es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales e inéditos de alta calidad, relacionados con las actividades de investigación en las áreas de Agroindustria, Agronomía, Agropecuaria, Biotecnología, Medicina Veterinaria, Medio Ambiente, Turismo y otras ciencias afines.',
   ),
   'homeHeaderTitleImage' => 
   array (
@@ -222,17 +248,17 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
   array (
     'es_ES' => 
     array (
-      'name' => 'VOL1N2.jpg',
+      'name' => 'PORTADAV2N1.jpg',
       'uploadName' => 'homepageImage_es_ES.jpg',
       'width' => 600,
-      'height' => 849,
+      'height' => 848,
       'mimeType' => 'image/jpeg',
-      'dateUploaded' => '2022-12-01 09:29:52',
+      'dateUploaded' => '2023-06-06 14:00:26',
     ),
   ),
   'journalPageFooter' => 
   array (
-    'es_ES' => '<div style="direction: ltr;">RENPYS. Revista Recursos Naturales Producción y Sostenibilidad</div><div style="direction: ltr;">Universidad Técnica de Cotopaxi<span class="Apple-converted-space"> </span></div><div style="direction: ltr;">Facultad de Ciencias Agropecuarias y Recursos Naturales</div><div style="direction: ltr;">Latacunga, Cotopaxi, Ecuador</div><div style="direction: ltr;"> </div><div style="direction: ltr;"> </div>',
+    'es_ES' => '<script type="text/javascript" src="http://rf.revolvermaps.com/0/0/4.js?i=5bolakc7pbg&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0"></script><div style="direction: ltr;">RENPYS. Revista Recursos Naturales Producción y Sostenibilidad</div><div style="direction: ltr;">Universidad Técnica de Cotopaxi<span class="Apple-converted-space"> </span></div><div style="direction: ltr;">Facultad de Ciencias Agropecuarias y Recursos Naturales</div><div style="direction: ltr;">Latacunga, Cotopaxi, Ecuador</div><div style="direction: ltr;"> </div><div style="direction: ltr;"> </div>',
   ),
   'journalThumbnail' => 
   array (
@@ -281,6 +307,10 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
       ),
     ),
   ),
+  'openAccessPolicy' => 
+  array (
+    'es_ES' => 'Esta revista proporciona un acceso abierto inmediato a su contenido, basado en el principio de que ofrecer al público un acceso libre a las investigaciones y  mayor intercambio global de conocimiento.',
+  ),
   'pageHeaderTitleImage' => 
   array (
     'es_ES' => 
@@ -304,6 +334,10 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
   'proofInstructions' => 
   array (
     'es_ES' => '<p>La fase de corrección de pruebas tiene el propósito de detectar errores ortográficos en la galerada, así como gramaticales y de formato. En esta fase no se realizan más cambios importantes, a menos que se haya acordado con el editor/a de sección. En Maquetación, haga clic en VER PRUEBA para ver los HTML, PDF y otros formatos de archivo disponibles utilizados en la edición de este elemento.</p><h4>Para errores ortográficos y gramaticales</h4><p>Copie la palabra o grupo de palabras problemáticas y péguelas en el cuadro de correciones de pruebas con instrucciones al editor/a "CAMBIAR-POR" como sigue:</p><pre>1. CAMBIAR... entonces los otras POR... entonces los otros</pre><br /><pre>2. CAMBIAR... Malinowsky POR... Malinowski</pre><br /><h4>Para errores de formato</h4><p>Describa la ubicación y naturaleza del problema en el cuadro de correcciones de pruebas después de escribir en el título "FORMATO" como sigue:</p><br /><pre>3. FORMATO Los números de la Tabla 3 no están alineados en la tercera columna.</pre><br /><pre>4. FORMATO El párrafo que comienza con "Este último tema..." no está sangrado.</pre>',
+  ),
+  'pubFreqPolicy' => 
+  array (
+    'es_ES' => '<p>La Revista <strong>Recursos Naturales Producción y Sostenibilidad </strong>es una publicación periódica científica a texto completo, sus contenidos se distribuyen gratuitamente según la filosofía del Movimiento de Acceso Abierto a la Información, con sistema de arbitraje por pares, frecuencia Semestral, editada por la Facultad de Ciencias Agropecuarias y Recursos Naturales (CAREN) de la Universidad Técnica de Cotopaxi. Su objetivo científico es contribuir a la difusión de la innovación y el conocimiento a través de la publicación de artículos originales e inéditos de alta calidad, relacionados con las actividades de investigación en las áreas de Agroindustrias, Agronomía, Agropecuaria, Biotecnología, Medicina Veterinaria, Medio Ambiente y Turismo.</p>',
   ),
   'publicationFeeDescription' => 
   array (
@@ -336,6 +370,10 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
   'reviewGuidelines' => 
   array (
     'es_ES' => '<p>El Editor/Editores deciden en primera instancia si el trabajo se corresponde con el perfil de la revista y si su presentación y estilo formalmente son aceptables (presencia de todas las secciones, observancia de las Normas de Redacción, entre otros). En este primer análisis pueden ser causa de rechazo la ausencia de novedad o falta de rigor científico; contravenciones éticas e incluso problemas de redacción demasiado graves. Si el trabajo no reúne los requisitos mínimos, el Editor se lo hará saber al autor.</p><p>Los trabajos que superen esta primera revisión serán enviados por el Editor responsable, o por los Editores asociados, a dos árbitros para su evaluación. Los mismos se elegirán de acuerdo a temática del trabajo y su identidad no será comunicada a los autores. El tiempo requerido para la revisión del artículo por parte del árbitro es de 30 días. El dictamen de cada árbitro se basará en la calidad del contenido y la forma del artículo, y recomendará al Editor sólo una de las siguientes opciones:</p><p>- La publicación sin modificaciones</p><p>- La publicación luego de realizadas mínimas correcciones</p><p>- La publicación luego de realizadas mayores correcciones</p><p>- Que el artículo no se publique</p><p>El Editor responsable u otro miembro designado por él consolida las recomendaciones de los árbitros y las envía al autor para que modifique su trabajo original. Si es necesario, se le vuelve a enviar el artículo al árbitro.</p><p>La evaluación es a ciegas y por pares de especialistas de alto nivel procedentes de universidades, institutos de investigación y entidades productivas de diferentes países. En caso de discrepancia entre dos árbitros se requerirá de una tercera opinión. La decisión final acerca de la aceptación del trabajo será responsabilidad del Editor Principal.</p><p>Si el autor ha incumplido parcialmente con las indicaciones arbitrales, se le devuelve el artículo con las especificaciones de lo que le falta; así hasta que haya llevado a su trabajo original la totalidad de lo dictaminado por los evaluadores.</p>Otro aspecto que se tiene en cuenta es que en esta parte del proceso, los autores no envíen nueva información que pueda considerarse un nuevo escrito, pues en ese caso se requeriría otro arbitraje.',
+  ),
+  'reviewPolicy' => 
+  array (
+    'es_ES' => '<p>Todos los artículos enviados para su posible publicación en la Revista <strong>Recursos Naturales Producción y Sostenibilidad</strong> serán sometidos a la revisión de la comisión de arbitraje que forma parte de la revista. Los árbitros deberán evaluar los artículos de forma objetiva, crítica así mismo deberán demostrar imparcialidad para poder garantizar la originalidad, innovación y el carácter científico de los artículos.</p><p> </p>',
   ),
   'searchDescription' => 
   array (
@@ -372,7 +410,7 @@ http://investigacion.utc.edu.ec/revistasutc/index.php/agrociencia',
       4 => 
       array (
         'order' => '5',
-        'content' => 'El texto se adhiere a los requisitos estilísticos y biliográficos resumidos en las <a href="/revistasutc/index.php/agrociencia/about/submissions#authorGuidelines" target="_new">Directrices del autor/a</a>, que aparecen en Acerca de la revista.',
+        'content' => 'El texto se adhiere a los requisitos estilísticos y biliográficos resumidos en las <a href="https://drive.google.com/file/d/1Y_VYQUf08tN8CiMjUAU7_cM79evhaNDj/view?usp=sharing" target="_blank">Directrices del autor/a</a>, que aparecen en Acerca de la revista.',
       ),
       5 => 
       array (
